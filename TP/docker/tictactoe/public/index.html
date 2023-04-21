@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Tic-Tac-Toe</title>
+    <meta charset="UTF-8" /> 
+    <style type="text/css">
+      body {
+        font-family: sans-serif;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 14px; background-color: #DDDDDD;
+      }
+      table {
+        border-collapse: collapse;
+      }
+      td {
+        border: 1px solid black;
+        width: 100px;
+        height: 100px;
+        font-size: 48px;
+        text-align: center;
+        vertical-align: center;
+      }
+    </style>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+
+    <h1>Tic-Tac-Toe</h1>
+
+    <p><span id="symbol"></span> <span id="toMove"></span><br></p>
+
+    <table>
+      <tr><td id="f0"></td><td id="f1"></td><td id="f2"></td></tr>
+      <tr><td id="f3"></td><td id="f4"></td><td id="f5"></td></tr>
+      <tr><td id="f6"></td><td id="f7"></td><td id="f8"></td></tr>
+    </table>
+
+    <p><span id="msg"></span></p>
+
+  </body>
+</html>

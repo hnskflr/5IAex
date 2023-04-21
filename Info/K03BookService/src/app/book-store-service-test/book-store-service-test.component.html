@@ -1,0 +1,115 @@
+<mat-list>
+    <mat-list-item>
+        <span class="method method-delete">DELETE</span>
+        <span class="url">/books</span>
+        <button (click)="resetStore()" class="btn-delete">Reset store to initial state</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <mat-list-item>
+        <span class="method method-get">GET</span>
+        <span class="url">/books</span>
+        <button (click)="getAllBooks()" class="btn-get">Get all books</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <mat-list-item>
+        <span class="method method-get">GET</span>
+        <span class="url">/books/search/&#123;searchTerm&#125;</span>
+        <mat-form-field><input placeholder="searchTerm" matInput #searchBookInput></mat-form-field>
+        <button (click)="searchBook(searchBookInput.value)" class="btn-get">Get all books matching search term</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <mat-list-item>
+        <span class="method method-post">POST</span>
+        <span class="url">/book</span>
+        <button (click)="createBook()" class="btn-post">Creates a new (random) book</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <mat-list-item>
+        <span class="method method-delete">DELETE</span>
+        <span class="url">/book/&#123;ISBN&#125;</span>
+        <mat-form-field><input placeholder="ISBN" matInput #deleteBookInput></mat-form-field>
+        <button (click)="deleteBook(deleteBookInput.value)" class="btn-delete">Deletes a book</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <mat-list-item>
+        <span class="method method-get">GET</span>
+        <span class="url">/book/&#123;ISBN&#125;</span>
+        <mat-form-field><input placeholder="ISBN" matInput #getBookInput></mat-form-field>
+        <button (click)="getBook(getBookInput.value)" class="btn-get">Return a single book by ISBN</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <mat-list-item>
+        <span class="method method-put">PUT</span>
+        <span class="url">/book/&#123;ISBN&#125;</span>
+        <mat-form-field><input placeholder="ISBN" matInput #updateBookInput></mat-form-field>
+        <button (click)="updateBook(updateBookInput.value)" class="btn-put">Updates an existing book</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <mat-list-item>
+        <span class="method method-get">GET</span>
+        <span class="url">/book/&#123;ISBN&#125;/check</span>
+        <mat-form-field><input placeholder="ISBN" matInput #checkBookInput></mat-form-field>
+        <button (click)="checkBook(checkBookInput.value)" class="btn-get">Return whether ISBN exists or not</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <mat-list-item>
+        <span class="method method-post">POST</span>
+        <span class="url">/book/&#123;ISBN&#125;/rate</span>
+        <mat-form-field><input placeholder="ISBN" matInput #rateBookInput></mat-form-field>
+        <mat-form-field><input placeholder="rating" matInput #rateBookRatingInput></mat-form-field>
+        <button (click)="rateBook(rateBookInput.value, rateBookRatingInput.value)" class="btn-post">Updates rating of a book to a given value</button>
+    </mat-list-item>
+    <mat-divider></mat-divider>
+
+    <!-- 
+    <is-book-store-service-item 
+        [method]="'post'" 
+        [url]="'/book'" 
+        [description]="'Creates a new (random) book'">
+    </is-book-store-service-item>
+    <is-book-store-service-item 
+        [method]="'delete'" 
+        [url]="'/book/{}'"
+        [args]="args[1]"
+        [description]="'Deletes a book'">
+    </is-book-store-service-item>
+    <is-book-store-service-item 
+        [method]="'get'" 
+        [url]="'/book/{}'" 
+        [args]="args[2]"
+        [description]="'Returns a single book by ISBN'"
+        [(output)]="output">
+    </is-book-store-service-item>
+    <is-book-store-service-item 
+        [method]="'put'" 
+        [url]="'/book/{}'" 
+        [args]="args[3]"
+        [description]="'Updates an existing book'"
+        [(output)]="output">
+    </is-book-store-service-item>
+    <is-book-store-service-item 
+        [method]="'get'" 
+        [url]="'/book/{}/check'"
+        [args]="args[4]"
+        [description]="'Return whether ISBN exists or not'"
+        [(output)]="output">
+    </is-book-store-service-item>
+    <is-book-store-service-item 
+        [method]="'post'" 
+        [url]="'/book/{}/rate/{}'"
+        [args]="args[5]"
+        [description]="'Updates rating of a book to a given value'">
+    </is-book-store-service-item> -->
+</mat-list>
+
+<h2>Ausgaben</h2>
+
+<div [innerHTML]="output"></div>

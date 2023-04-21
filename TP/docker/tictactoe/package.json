@@ -1,0 +1,11 @@
+{
+          "name": "tic-tac-toe",
+          "version": "1.1.0",
+          "description": "Tic-Tac-Toe",
+          "author": "Chris Mair <chris@1006.org>",
+          "dependencies": {
+                    "express": "^4.17.1",
+                    "socket.io": "^2.3.0"
+          },
+          "license": "(C) 2015 Webmasters Akademie"
+}

@@ -1,0 +1,39 @@
+<mat-table #table [dataSource]="itemsDataSource">
+    <ng-container matColumnDef="image">
+        <mat-header-cell *matHeaderCellDef>Bild</mat-header-cell>
+        <mat-cell *matCellDef="let item"><img [src]="item.images[0].url" width="75%"></mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="id">
+        <mat-header-cell *matHeaderCellDef>Id</mat-header-cell>
+        <mat-cell *matCellDef="let item"><a routerLink="/update-item" [state]="item">{{ item.id }}</a></mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="description">
+        <mat-header-cell *matHeaderCellDef>Beschreibung</mat-header-cell>
+        <mat-cell *matCellDef="let item">{{ item.description }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="count">
+        <mat-header-cell *matHeaderCellDef>Anzahl</mat-header-cell>
+        <mat-cell *matCellDef="let item">{{ item.number | number: '1.0-0' }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="buy-price">
+        <mat-header-cell *matHeaderCellDef>Einkaufspreis</mat-header-cell>
+        <mat-cell *matCellDef="let item">{{ item.purchasingPrice | currency: 'EUR':'symbol':'1.2-2' }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="sell-price">
+        <mat-header-cell *matHeaderCellDef>Verkaufspreis</mat-header-cell>
+        <mat-cell *matCellDef="let item">{{ item.retailPrice | currency: 'EUR':'symbol':'1.2-2' }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="launch-date">
+        <mat-header-cell *matHeaderCellDef>Einführungsdatum</mat-header-cell>
+        <mat-cell *matCellDef="let item">{{ item.launchDate | date:'longDate' }}</mat-cell>
+    </ng-container>
+
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>

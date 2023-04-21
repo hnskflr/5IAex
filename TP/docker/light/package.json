@@ -1,0 +1,11 @@
+{
+          "name": "light",
+          "version": "1.0.0",
+          "description": "Light bulb",
+          "author": "Chris Mair <chris@1006.org>",
+          "dependencies": {
+                    "express": "^4.17.1",
+                    "socket.io": "^2.3.0"
+          },
+          "license": "(C) 2015 Webmasters Akademie"
+}

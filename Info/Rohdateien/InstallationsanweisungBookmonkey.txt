@@ -1,0 +1,3 @@
+cd bookmonkey-api4-master
+npm install
+npm start

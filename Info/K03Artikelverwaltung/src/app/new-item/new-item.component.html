@@ -1,0 +1,72 @@
+<form [formGroup]="itemForm" (submit)="updateItem()">
+    <mat-form-field>
+        <input matInput placeholder="Id" formControlName="id">
+        <mat-error>
+            <span *ngIf="itemForm.controls.id.hasError('required')">Id ist erforderlich</span>
+            <span *ngIf="itemForm.controls.id.hasError('idFormat')">Id ist nicht valid</span>
+        </mat-error>
+    </mat-form-field>
+    <br>
+    <mat-form-field>
+        <input matInput placeholder="Beschreibung" formControlName="description">
+        <mat-error>
+            <span *ngIf="itemForm.controls.description.hasError('required')">Beschreibung ist erforderlich</span>
+        </mat-error>
+    </mat-form-field>
+    <br>
+    <mat-form-field>
+        <input matInput placeholder="Anzahl" type="number" min="0" step="1" value="0" formControlName="number">
+        <mat-error>
+            <span *ngIf="itemForm.controls.number.hasError('min')">Anzahl muss größer oder gleich 0 sein</span>
+        </mat-error>
+    </mat-form-field>
+    <br>
+    <div formGroupName="prices">
+        <mat-form-field>
+            <input matInput placeholder="Einkaufspreis" type="number" min="0" step="0.01" value="0" formControlName="purchasingPrice">
+            <mat-error>
+                <span *ngIf="prices.controls.purchasingPrice.hasError('min')">Einkaufspreis muss größer oder gleich 0 sein</span>
+            </mat-error>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Verkaufspreis" type="number" min="0" step="0.01" value="0" formControlName="retailPrice">
+            <mat-error>
+                <span *ngIf="prices.controls.retailPrice.hasError('min')">Verkaufspreis muss größer oder gleich 0 sein</span>
+            </mat-error>
+        </mat-form-field>
+        <mat-error>
+            <span *ngIf='prices.hasError("purchasingPriceLower")'>Verkaufspreis muss größer oder gleich Einkaufspreis sein</span>
+        </mat-error>
+    </div>
+    <br>
+    <mat-form-field>
+        <input matInput placeholder="Einführungsdatum" type="date" [value]="today" formControlName="launchDate">
+    </mat-form-field>
+    <br>
+    <div formArrayName="images">
+        <div *ngFor="let image of images.controls; let i = index" [formGroupName]="i">
+            <mat-form-field>
+                <input matInput placeholder="URL" type="url" formControlName="url">
+                <mat-error>URL ist erforderlich</mat-error>
+            </mat-form-field>
+            <mat-form-field>
+                <input matInput placeholder="Titel" type="text" formControlName="title">
+            </mat-form-field>
+
+            <button *ngIf="images.controls.length > 1" type="button" mat-icon-button (click)="removeImage(i)">
+                <mat-icon>remove</mat-icon>
+            </button>
+            <button *ngIf="images.controls.length === i + 1" type="button" mat-icon-button (click)="addImage()">
+                <mat-icon>add</mat-icon>
+            </button>
+        </div>
+    </div>
+    <button 
+        type="button" 
+        mat-raised-button 
+        [disabled]="!itemForm.valid" 
+        (click)="editMode ? updateItem() : addItem()">
+        {{ editMode ? "Ändern" : "Hinzufügen" }}
+    </button>
+    <button *ngIf="editMode" type="button" mat-raised-button (click)="deleteItem()">Löschen</button>
+</form>

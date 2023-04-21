@@ -1,0 +1,7 @@
+kunden (kfname, kname, kstrasse, khnr, kpls, kort, knation, ktelefon, kemail, kgebdatum)
+hersteller (hname, hstrasse, hhnr, hplz, hort, hnation)
+mitarbeiter (mfname, mname)
+auftraege (adatum, aausgeliefert, ~mitarbeiter)
+artikel (rbezeichnung, repreis, rvpreis, rbestand, rsollbnestand, rimangebot, rluxus, rbeschreibung, ~hersteller)
+positionen (pmenge, ~auftrag, ~artikel)
+arbeitszeiten (zdatum, zvon, zbis, ~mitarbeiter)

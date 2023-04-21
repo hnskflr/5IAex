@@ -1,0 +1,17 @@
+<html>
+  <body>
+    <nav color="accent" backgroundColor="primary" mat-tab-nav-bar>
+      <!-- <a mat-tab-link [routerLink]="'home'" routerLinkActive #rla="routerLinkActive" [active]="rla.isActive" fxShow fxHide.xs>
+        Home
+      </a> -->
+      <a mat-tab-link
+        *ngFor="let link of routerLinks"
+        [routerLink]="link.path"
+        routerLinkActive #rla="routerLinkActive"
+        [active]="rla.isActive">
+        {{ link.label }}
+      </a>
+    </nav>
+    <router-outlet></router-outlet>
+  </body>
+</html>

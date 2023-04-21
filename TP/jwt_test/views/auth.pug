@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  h1= title
+  form(method='post' action='/auth/login')
+    input(type='text' name='email' value='test@example.com')
+    input(type='password' name='password' value='test')
+    input(type='submit' value='Login')

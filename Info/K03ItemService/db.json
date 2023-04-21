@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "DE12345678",
+      "description": "Umwälzpumpe",
+      "number": 200,
+      "purchasingPrice": 25.3,
+      "retailPrice": 77.9,
+      "launchDate": "2019-02-01",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Sindelfingen_Haus_%26_Energie_2018_by-RaBoe_056.jpg",
+          "title": "Umwälzpumpe"
+        }
+      ]
+    },
+    {
+      "id": "IT123456",
+      "description": "Kupplung",
+      "number": 100,
+      "purchasingPrice": 5.3,
+      "retailPrice": 7.9,
+      "launchDate": "2019-02-02",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Clutch-c.jpg",
+          "title": "Kraftfahrzeugkupplung"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Clutchdisc.jpg",
+          "title": "Kupplungsscheibe"
+        }
+      ]
+    },
+    {
+      "id": "IT111111",
+      "description": "aaa",
+      "number": 100,
+      "purchasingPrice": 10,
+      "retailPrice": 30,
+      "launchDate": "2023-02-13",
+      "images": [
+        {
+          "url": "aaaa",
+          "title": "a"
+        },
+        {
+          "url": "bbbb",
+          "title": "b"
+        }
+      ]
+    }
+  ]
+}

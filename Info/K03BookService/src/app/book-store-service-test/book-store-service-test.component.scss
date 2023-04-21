@@ -1,0 +1,134 @@
+mat-list-item {
+    // display: block;
+    // width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+// Methods
+.method {
+    width: 70px;
+    margin: 5px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.method-delete {
+    background-color: red;
+}
+
+.method-get {
+    background-color: blue;
+}
+
+// Urls
+.url {
+    display: inline-block;
+    margin: 5px;
+}
+
+// Inputs
+mat-form-field {
+    margin: 5px;
+}
+
+// Buttons
+button {
+    width: 30%;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    background-color: transparent;
+    border: solid;
+    border-radius: 5px;
+}
+
+.btn-delete {
+    border-color: red;
+}
+
+.btn-get {
+    border-color: blue;
+}
+
+mat-list-item {
+    // display: block;
+    // width: 100%;
+    text-align: center;
+    // align-items: center;
+}
+
+// Methods
+.method {
+    text-transform: uppercase;
+    width: 70px;
+    margin: 5px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.method-delete {
+    background-color: red;
+}
+
+.method-get {
+    background-color: blue;
+}
+
+.method-post {
+    background-color: green;
+}
+
+.method-put {
+    background-color: brown;
+}
+
+// Urls
+.url {
+    // display: inline-block;
+    margin: 5px;
+    width: 30%;
+    text-align: left;
+}
+
+// Inputs
+mat-form-field {
+    margin: 5px;
+    width: 15%;
+    width: 200px;
+}
+
+// Buttons
+button {
+    width: 20%;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    background-color: transparent;
+    border: solid;
+    border-radius: 5px;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.btn-delete {
+    border-color: red;
+}
+
+.btn-get {
+    border-color: blue;
+}
+
+.btn-post {
+    border-color: green;
+}
+
+.btn-put {
+    border-color: brown;
+}

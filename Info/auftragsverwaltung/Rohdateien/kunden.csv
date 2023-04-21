@@ -1,0 +1,943 @@
+1;Schulz;Gottfried;Uhlandstraße;115;80999;München;D;NULL;NULL;1985-12-23
+2;Ebner;Franz;Wagnerring;106;53112;Bonn;D;0228/445826;NULL;1987-07-20
+3;Dennewitz;Sigmund;Bremer Steige;50;80809;München;D;NULL;NULL;1986-10-12
+4;Pelz;Jürgen;Am Stadtpark;3;39326;Colbitz;D;0392/177552;NULL;1984-03-30
+5;Dienstbier;Viktoria;Amselweg;22;55127;Mainz;D;NULL;NULL;1980-10-21
+6;Borst;Roswitha;Wothanallee;23;9599;Freiberg;D;NULL;NULL;1987-04-29
+7;Becker;Eugen;Goethestraße;63;53115;Bonn;D;NULL;NULL;1987-10-06
+8;Christ;Filomena;Sigmund-Freud-Weg;13;81541;München;D;089/5651521;NULL;1989-05-15
+9;Dohrow;Julian;Ulmer Ring;61;53115;Bonn;D;0228/664352;NULL;1981-11-29
+10;Ceron;Alfred;Kaiserstraße;103;53115;Bonn;D;0228/516716;NULL;1986-03-23
+11;Kroll;Jürgen;Pariser Straße;74;12055;Berlin;D;NULL;NULL;1980-08-16
+12;Ahnert;Daniel;Blumenstraße;91;39326;Colbitz;D;0392/772487;NULL;1985-03-02
+13;Ceron;Esther;Wilhelmstraße;75;88361;Altshausen;D;NULL;NULL;1982-02-26
+14;Haffner;Mathias;Wilhelmstraße;46;53112;Bonn;D;0228/114567;NULL;1989-01-13
+15;Ackermann;Adolf;Lichtensternweg;91;55131;Mainz;D;NULL;NULL;1986-01-11
+16;Ost;Norbert;Amselweg;28;81541;München;D;NULL;NULL;1982-09-06
+17;Paetzold;Bernd;Paulusweg;44;88361;Altshausen;D;07584/84785;NULL;1982-10-29
+18;Dennewitz;Konrad;Bäckerweg;102;10319;Berlin;D;030/3651381;NULL;1984-07-29
+19;Mende;Doris;Pariser Straße;53;55127;Mainz;D;NULL;NULL;1985-09-29
+20;Durach;Xaver;Ravensburger Straße;57;22027;Hamburg;D;NULL;NULL;1989-02-13
+21;Reder;Judith;Am Westufer;100;80809;München;D;089/4865117;NULL;1987-05-05
+22;Heller;Iris;Nürnberger Straße;114;28273;Bremen;D;0421/871861;NULL;1987-02-04
+23;Ehrhardt;Lore;Bischofstraße;21;94032;Passau;D;NULL;NULL;1983-08-31
+24;Ahnert;Lisa;Kieler Weg;8;66111;Saarbrücken;D;0681/876355;NULL;1983-08-18
+25;Dittert;Dirk;An der Schmiede;54;28273;Bremen;D;0421/342744;NULL;1983-12-10
+26;Ille;Cecilie;Josefstraße;16;39326;Colbitz;D;0392/236621;NULL;1982-02-09
+27;Rasemann;Hiltrud;Voltastraße;101;13437;Berlin;D;030/4274722;NULL;1980-06-24
+28;Müller;Esther;Josefstraße;55;70176;Stuttgart;D;0711/727728;NULL;1985-05-13
+29;Blohm;Sigmund;Sigmund-Freud-Weg;57;55127;Mainz;D;06131/88134;NULL;1986-10-08
+30;Pech;Natascha;Wilhelmstraße;13;80809;München;D;NULL;NULL;1989-12-24
+31;Lichtenstern;Regina;Dolgenseestraße;32;9599;Freiberg;D;NULL;NULL;1988-07-24
+32;Raffael;Fritz;Bismarckstraße;101;23843;Bad Oldeslohe;D;04531/76463;NULL;1986-01-15
+33;Rauch;Gottfried;Karl-Marx-Straße;84;53112;Bonn;D;0228/851334;NULL;1981-04-21
+34;Kubicki;Alfred;An der Philharmonie;98;70175;Stuttgart;D;0711/157538;NULL;1983-01-16
+35;Fischer;Daniel;Blumenstraße;15;55127;Mainz;D;NULL;NULL;1988-10-11
+36;Ebner;Galathea;Londoner Weg;89;22015;Hamburg;D;NULL;NULL;1987-03-04
+37;Peters;Galathea;Linus-Pauli-Ring;4;39326;Colbitz;D;0392/387578;NULL;1987-03-09
+38;Hoffmann;Elfriede;Nürnberger Straße;106;30046;Hannover;D;NULL;NULL;1986-06-05
+39;Müller;Dorothea;Londoner Weg;39;53115;Bonn;D;NULL;NULL;1983-09-10
+40;Fichtl;Stefanie;Goethestraße;108;10319;Berlin;D;NULL;NULL;1980-09-05
+41;Horstmann;Roger;Chemnitzer Straße;30;80809;München;D;089/7614138;NULL;1986-04-18
+42;Raffael;Achim;Wilhelmstraße;92;28273;Bremen;D;NULL;NULL;1982-10-31
+43;Maier;Wilhelm;Albert-Einstein-Weg;43;53115;Bonn;D;NULL;NULL;1981-08-09
+44;Binder;Franz;Hertz-Allee;72;81541;München;D;089/3468821;NULL;1986-06-02
+45;Jahn;Stefanie;Hindenburgstraße;64;70175;Stuttgart;D;0711/783765;NULL;1986-02-06
+46;Rauch;Norbert;Edisonweg;71;81541;München;D;089/7835388;NULL;1983-03-13
+47;Ackermann;Ernst;Hamburger Straße;94;63128;Dietzenbach;D;06074/87173;NULL;1983-07-14
+48;Ostertag;Bianca;Kieler Weg;26;10319;Berlin;D;NULL;NULL;1983-12-11
+49;Ganther;Iris;Bodenseestraße;78;94032;Passau;D;0851/216528;NULL;1987-02-13
+50;Gerdes;Dagmar;Brüsseler Straße;32;22015;Hamburg;D;NULL;NULL;1986-11-29
+51;Sindermann;Cornelia;Londoner Weg;16;66111;Saarbrücken;D;NULL;NULL;1981-04-04
+52;Oppermann;Franz;Augsburger Straße;69;28273;Bremen;D;0421/166213;NULL;1987-01-11
+53;Geiger;Adolf;Hermannstraße;59;53112;Bonn;D;NULL;NULL;1982-02-14
+54;Dittert;Ulrike;Linus-Pauli-Ring;98;70175;Stuttgart;D;0711/348562;NULL;1989-05-13
+55;Gallus;Leonore;Gerichtsstraße;98;28273;Bremen;D;NULL;NULL;1986-04-30
+56;Thierse;Oskar;Bodenseestraße;51;39326;Colbitz;D;NULL;NULL;1980-08-11
+57;Engelhardt;Eugen;Müllerstraße;28;12215;Berlin;D;030/5221621;NULL;1985-12-27
+58;Ostertag;Peter;Schusterstraße;8;23843;Bad Oldeslohe;D;04531/11245;NULL;1987-10-09
+59;Pelz;Werner;Königsallee;27;66111;Saarbrücken;D;NULL;NULL;1984-12-05
+60;Baumann;Daniala;Lerchenweg;26;39326;Colbitz;D;NULL;NULL;1983-07-11
+61;Kanther;Gertrud;Voltastraße;102;97071;Würzburg;D;0931/446565;NULL;1981-01-31
+62;Paetzold;Uli;Bischofstraße;66;22015;Hamburg;D;NULL;NULL;1983-09-15
+63;Ganther;Dorothea;Alter Markt;90;81541;München;D;089/3267782;NULL;1981-04-28
+64;Lichtenstern;Stefan;Bäckerweg;17;94032;Passau;D;0851/166817;NULL;1985-02-26
+65;Degenhardt;Natascha;Weserstraße;61;22027;Hamburg;D;040/3785517;NULL;1984-05-02
+66;Neuendorf;Elfriede;Bismarckstraße;116;70175;Stuttgart;D;0711/613824;NULL;1985-06-04
+67;Ahnert;Siglinde;Wothanallee;32;28273;Bremen;D;NULL;NULL;1986-03-21
+68;Engelhardt;Werner;Lerchenweg;84;23843;Bad Oldeslohe;D;NULL;NULL;1987-11-04
+69;Geyer;Julius;Hermannstraße;50;28273;Bremen;D;0421/688434;NULL;1986-08-05
+70;Fichtl;Iris;Josefstraße;27;22015;Hamburg;D;NULL;NULL;1983-03-22
+71;Rottmann;Stefanie;Ebertstraße;45;30053;Hannover;D;0511/885774;NULL;1981-01-24
+72;Degenhardt;Anna;Hertz-Allee;34;12055;Berlin;D;NULL;NULL;1987-12-08
+73;Hoffmann;Adolf;Ulmer Ring;55;97071;Würzburg;D;NULL;NULL;1985-09-15
+74;Dennewitz;Thorsten;Warschauer Straße;69;22015;Hamburg;D;NULL;NULL;1982-06-27
+75;Schäfer;Inge;Hertz-Allee;43;53115;Bonn;D;NULL;NULL;1986-01-08
+76;Ille;Hannelore;Haydnweg;11;94032;Passau;D;0851/885872;NULL;1980-03-30
+77;Rasemann;Leonore;Hamburger Straße;41;97070;Würzburg;D;NULL;NULL;1988-02-23
+78;Kubicki;Daniel;Albert-Einstein-Weg;4;10319;Berlin;D;030/8645548;NULL;1987-10-30
+79;Rottmann;Sigfried;Hertz-Allee;53;10319;Berlin;D;030/5228588;NULL;1986-04-28
+80;Stocker;Bernd;Buchfinkenstraße;23;13437;Berlin;D;NULL;NULL;1989-01-10
+81;Geiger;Konrad;Ebertstraße;91;97070;Würzburg;D;NULL;NULL;1982-02-26
+82;Graetschel;Achim;Adlerring;46;22027;Hamburg;D;040/7841234;NULL;1980-05-02
+83;Lichtenstern;Bert;Hermannstraße;111;22027;Hamburg;D;NULL;NULL;1985-05-23
+84;Rauch;Filomena;Lerchenweg;19;97070;Würzburg;D;NULL;NULL;1989-01-13
+85;Weber;Brunhilde;Hindenburgstraße;49;70175;Stuttgart;D;NULL;NULL;1980-04-14
+86;Döring;Mathias;Isac-Newton-Straße;5;22027;Hamburg;D;NULL;NULL;1982-01-30
+87;Dittert;Galathea;Flensburger Straße;102;94032;Passau;D;NULL;NULL;1989-12-21
+88;Dohrow;Carsten;Stuttgarter Straße;83;70176;Stuttgart;D;NULL;NULL;1983-09-04
+89;Wegner;Julius;Hertz-Allee;104;94032;Passau;D;0851/277466;NULL;1987-02-10
+90;Hoffmann;Esther;Am Schauspielhaus;81;53112;Bonn;D;0228/884582;NULL;1985-01-08
+91;Ganther;Ernst;Weserstraße;61;94032;Passau;D;NULL;NULL;1985-11-23
+92;Raffael;Eleonore;Imanuel-Kant-Straße;31;66111;Saarbrücken;D;0681/376753;NULL;1987-02-03
+93;Haffner;Claudia;Dolgenseestraße;49;94032;Passau;D;0851/427752;NULL;1980-12-07
+94;Neubauer;Thomas;Albert-Einstein-Weg;120;70175;Stuttgart;D;0711/871845;NULL;1987-02-13
+95;Rauch;Petra;Kurfürstenstraße;79;97071;Würzburg;D;NULL;NULL;1988-12-19
+96;Junker;Regina;Uhlandstraße;116;39326;Colbitz;D;NULL;NULL;1989-05-22
+97;Haffner;Holger;Michiganseestraße;86;80809;München;D;089/4682643;NULL;1989-01-20
+98;Pietsch;Dorothea;Dolgenseestraße;27;55127;Mainz;D;NULL;NULL;1983-04-13
+99;Dienstbier;Mechthild;Arnsberger Straße;36;94032;Passau;D;0851/448546;NULL;1984-09-02
+100;Pelz;Achim;Veilchenweg;40;30046;Hannover;D;NULL;NULL;1982-03-01
+101;Binder;Heinz;Am Schauspielhaus;71;39326;Colbitz;D;NULL;NULL;1985-07-01
+102;Durach;Andreas;Guntherstraße;89;9599;Freiberg;D;NULL;NULL;1981-10-24
+103;Rasemann;Gertrud;Uhlandstraße;17;55127;Mainz;D;06131/52118;NULL;1989-08-27
+104;Kubicki;Vanessa;An der Schmiede;75;19077;Schwerin;D;NULL;NULL;1983-03-08
+105;Dennewitz;Dieter;Flensburger Straße;40;97070;Würzburg;D;0931/136755;NULL;1984-11-03
+106;Binder;Paula;Am Stadtpark;88;30053;Hannover;D;0511/186715;NULL;1983-04-15
+107;Voigt;Peter;Werbellinseestraße;82;94032;Passau;D;NULL;NULL;1985-09-13
+108;Hoffmann;Peter;Karl-Marx-Straße;59;22027;Hamburg;D;040/5742234;NULL;1980-07-12
+109;Horstmann;Alfred;Bodenseestraße;53;94032;Passau;D;0851/447473;NULL;1987-10-10
+110;Jahn;Paula;Bequerelstraße;96;94032;Passau;D;0851/752778;NULL;1981-09-06
+111;Wagner;Dirk;Stuttgarter Straße;110;28273;Bremen;D;NULL;NULL;1984-03-19
+112;Fischer;Emil;Flensburger Straße;81;12055;Berlin;D;030/7187276;NULL;1985-01-17
+113;Ganther;Norbert;An der Philharmonie;108;12215;Berlin;D;NULL;NULL;1986-02-07
+114;Ost;Vanessa;Huronseestraße;103;22015;Hamburg;D;NULL;NULL;1982-01-22
+115;Jahn;Thomas;Josefstraße;60;88361;Altshausen;D;07584/88581;NULL;1988-03-03
+116;Meyer;Fritz;Uhlandstraße;21;10319;Berlin;D;030/7171352;NULL;1988-06-17
+117;Pech;Klaus;Arnsberger Straße;16;63128;Dietzenbach;D;NULL;NULL;1987-04-18
+118;Engelhardt;Mathias;Karl-Marx-Straße;45;22027;Hamburg;D;NULL;NULL;1988-08-02
+119;Ostertag;Dorothea;Amselweg;45;12215;Berlin;D;030/6116555;NULL;1982-12-31
+120;Gallus;Oskar;Genther Straße;102;12055;Berlin;D;030/5458452;NULL;1984-12-13
+121;Meyer;Holger;Nürnberger Straße;6;80809;München;D;089/6645383;NULL;1983-02-26
+122;Fichtl;Natascha;Chemnitzer Straße;112;81541;München;D;089/1745547;NULL;1989-10-08
+123;Ganther;Carsten;Schillerstraße;2;39326;Colbitz;D;0392/736736;NULL;1986-12-27
+124;Unglert;Xaver;Donaustraße;28;53112;Bonn;D;NULL;NULL;1985-03-06
+125;Stocker;Leonore;Königsallee;26;80809;München;D;089/2131251;NULL;1984-03-17
+126;Gerdes;Waltraud;Dolgenseestraße;100;53115;Bonn;D;0228/661818;NULL;1982-08-22
+127;Pech;Roger;Hermannstraße;76;30053;Hannover;D;NULL;NULL;1986-01-27
+128;Thiel;Emil;Blumenstraße;110;13437;Berlin;D;030/2554281;NULL;1986-10-13
+129;Ceron;Dorothea;Kieler Weg;25;12215;Berlin;D;030/7373727;NULL;1981-09-15
+130;Gallus;Elfriede;Hindenburgstraße;48;13437;Berlin;D;030/4521238;NULL;1987-07-04
+131;Raffael;Judith;Siegriedstraße;3;12055;Berlin;D;030/5777771;NULL;1986-10-28
+132;Palm;Thorsten;Adlerring;28;94032;Passau;D;0851/362222;NULL;1987-03-19
+133;Urban;Achim;Josefstraße;19;30046;Hannover;D;NULL;NULL;1989-03-27
+134;Schäfer;Peter;Kaiserstraße;63;88361;Altshausen;D;07584/58432;NULL;1986-03-31
+135;Horstmann;Lisa;Kaiserstraße;67;97071;Würzburg;D;0931/146254;NULL;1982-01-20
+136;Hanke;Iris;Arnsberger Straße;17;80809;München;D;089/7615372;NULL;1983-01-21
+137;Weber;Peter;Marienstraße;1;55127;Mainz;D;NULL;NULL;1984-03-19
+138;Kroll;Andreas;Hermannstraße;82;30053;Hannover;D;NULL;NULL;1981-02-08
+139;Kroll;Elisabeth;Albert-Einstein-Weg;75;13437;Berlin;D;030/7277886;NULL;1989-03-09
+140;Schütz;Eugen;Bequerelstraße;35;81541;München;D;089/3473127;NULL;1982-01-28
+141;Busch;Filomena;Ravensburger Straße;33;70176;Stuttgart;D;0711/356572;NULL;1984-12-02
+142;Ebner;Doris;Mozartstraße;46;80999;München;D;NULL;NULL;1986-10-14
+143;Binder;Emil;Regensburger Straße;44;66111;Saarbrücken;D;NULL;NULL;1987-05-07
+144;Ackermann;Siglinde;Pferdekoppel;46;80999;München;D;NULL;NULL;1986-01-20
+145;Graetschel;Roswitha;Nürnberger Straße;66;97071;Würzburg;D;0931/874648;NULL;1985-02-14
+146;Hanke;Karl;Rosenstraße;94;70175;Stuttgart;D;0711/472732;NULL;1982-09-08
+147;Sindermann;Volker;Mainzer Weg;14;70176;Stuttgart;D;0711/156772;NULL;1982-01-08
+148;Geiger;Gottfried;Albert-Einstein-Weg;93;19077;Schwerin;D;0385/781672;NULL;1987-11-28
+149;Runge;Sigmund;Flensburger Straße;73;70176;Stuttgart;D;0711/831686;NULL;1983-10-30
+150;Rottmann;Eugen;Am Schauspielhaus;39;94032;Passau;D;0851/431528;NULL;1981-12-22
+151;Heller;Günther;Josefstraße;97;23843;Bad Oldeslohe;D;04531/46456;NULL;1985-03-04
+152;Ahfeldt;Waltraud;Marienstraße;52;66111;Saarbrücken;D;0681/487825;NULL;1983-05-26
+153;Peters;Cornelia;Am Stadtpark;22;12215;Berlin;D;030/1561556;NULL;1986-12-06
+154;Fischer;Leonore;Schubertstraße;48;97071;Würzburg;D;NULL;NULL;1982-07-23
+155;Palm;Sigfried;Sieversstraße;103;23843;Bad Oldeslohe;D;NULL;NULL;1985-03-24
+156;Degenhardt;Dorothea;Bequerelstraße;105;39326;Colbitz;D;0392/434716;NULL;1989-08-23
+157;Horstmann;Ulrike;Museumstraße;5;70175;Stuttgart;D;NULL;NULL;1986-02-27
+158;Scheel;Andreas;Bischofstraße;11;9599;Freiberg;D;03731/34813;NULL;1988-05-05
+159;Borst;Gottfried;Linus-Pauli-Ring;8;81541;München;D;089/2335186;NULL;1980-02-25
+160;Eckert;Ernst;Linus-Pauli-Ring;93;70176;Stuttgart;D;0711/613716;NULL;1981-12-21
+161;Reder;Ansgar;Mozartstraße;74;13437;Berlin;D;NULL;NULL;1989-08-30
+162;Haffner;Bianca;Düsseldorfer Straße;78;9599;Freiberg;D;NULL;NULL;1982-04-16
+163;Blohm;Rita;Karl-Marx-Straße;59;22027;Hamburg;D;NULL;NULL;1988-02-22
+164;Dienstbier;Werner;Museumstraße;63;53112;Bonn;D;0228/435428;NULL;1989-05-01
+165;Weber;Bert;Alter Markt;62;12055;Berlin;D;NULL;NULL;1989-02-04
+166;Ostertag;Werner;Bequerelstraße;23;97071;Würzburg;D;NULL;NULL;1986-08-07
+167;Ebner;Ulrike;Lerchenweg;58;80999;München;D;089/8267235;NULL;1987-07-19
+168;Fuchs;Paula;Wothanallee;23;12215;Berlin;D;NULL;NULL;1986-01-23
+169;Unglert;Bernd;Bäckerweg;67;63128;Dietzenbach;D;NULL;NULL;1988-06-27
+170;Christ;Michael;Linus-Pauli-Ring;54;94032;Passau;D;NULL;NULL;1986-01-24
+171;Sindermann;Gottfried;Veilchenweg;21;30053;Hannover;D;NULL;NULL;1981-10-03
+172;Kubicki;Mechthild;Wagnerring;76;55131;Mainz;D;NULL;NULL;1989-07-14
+173;Runge;Norbert;Bismarckstraße;79;10319;Berlin;D;NULL;NULL;1980-12-07
+174;Danner;Ruth;Sigmund-Freud-Weg;62;10319;Berlin;D;030/1253573;NULL;1983-02-28
+175;Degenhardt;Rita;Wagnerring;6;55131;Mainz;D;NULL;NULL;1987-11-18
+176;Hertling;Gottfried;Dolgenseestraße;116;81541;München;D;089/6147816;NULL;1981-08-14
+177;Ceron;Brunhilde;Wothanallee;49;19077;Schwerin;D;0385/711227;NULL;1988-03-16
+178;Fischer;Volker;Stuttgarter Straße;28;53112;Bonn;D;0228/835138;NULL;1984-06-16
+179;Ganther;Emil;Paulusweg;64;70176;Stuttgart;D;NULL;NULL;1986-07-27
+180;Maier;Stefanie;Hermannstraße;117;81541;München;D;089/4217758;NULL;1988-01-31
+181;Franke;Achim;Waldstraße;68;80999;München;D;089/1543255;NULL;1982-04-11
+182;Schütz;Claudia;Donaustraße;116;22015;Hamburg;D;NULL;NULL;1981-01-11
+183;Lichtenstern;Adolf;Flensburger Straße;97;94032;Passau;D;0851/565887;NULL;1983-07-16
+184;Ehrmann;Petra;Weserstraße;79;30046;Hannover;D;NULL;NULL;1983-01-23
+185;Vogel;Roswitha;Schubertstraße;28;30046;Hannover;D;0511/454254;NULL;1985-07-12
+186;Pelz;Manfred;Beethovenstraße;53;39326;Colbitz;D;0392/732122;NULL;1984-07-01
+187;Christ;Norbert;Adlerring;19;53112;Bonn;D;0228/748557;NULL;1989-09-02
+188;Pech;Uli;Sieversstraße;6;30046;Hannover;D;NULL;NULL;1982-06-28
+189;Meyer;Stefan;Schusterstraße;104;39326;Colbitz;D;0392/456256;NULL;1985-03-27
+190;Ahfeldt;Eugen;Haydnweg;4;30046;Hannover;D;NULL;NULL;1982-09-05
+191;Urban;Roswitha;Veilchenweg;5;28273;Bremen;D;NULL;NULL;1984-11-09
+192;Reder;Lisa;Elbestraße;113;13437;Berlin;D;NULL;NULL;1989-05-03
+193;Fuchs;Werner;Brüsseler Straße;103;39326;Colbitz;D;0392/618344;NULL;1987-10-06
+194;Hoffmann;Thomas;An der Philharmonie;84;97071;Würzburg;D;NULL;NULL;1988-08-13
+195;Wagner;Cornelia;Marienstraße;9;97071;Würzburg;D;0931/324821;NULL;1980-11-26
+196;Meyer;Roger;Rosenstraße;24;22015;Hamburg;D;NULL;NULL;1987-08-10
+197;Faust;Judith;Albert-Einstein-Weg;48;55127;Mainz;D;06131/64234;NULL;1982-01-04
+198;Kanther;Dorothea;Adlerring;102;10319;Berlin;D;NULL;NULL;1986-08-06
+199;Haffner;Mechthild;Marienstraße;89;80809;München;D;NULL;NULL;1983-10-11
+200;Pietsch;Franz;Warschauer Straße;118;66111;Saarbrücken;D;0681/252634;NULL;1987-03-31
+201;Neubauer;Stefan;Dolgenseestraße;76;55127;Mainz;D;NULL;NULL;1980-07-06
+202;Dienstbier;Horst;Museumstraße;67;63128;Dietzenbach;D;06074/82842;NULL;1985-03-31
+203;Engelhardt;Julia;Lerchenweg;110;12055;Berlin;D;NULL;NULL;1986-10-28
+204;Paetzold;Hiltrud;Ulmer Ring;92;70175;Stuttgart;D;NULL;NULL;1982-03-20
+205;Stein;Nicole;Opernstraße;30;12215;Berlin;D;NULL;NULL;1989-05-14
+206;Peters;Eleonore;Kurfürstenstraße;94;55127;Mainz;D;06131/66181;NULL;1989-08-03
+207;Kanther;Judith;Dolgenseestraße;76;97070;Würzburg;D;0931/211863;NULL;1984-03-15
+208;Hanke;Tina;Voltastraße;96;55127;Mainz;D;NULL;NULL;1985-12-08
+209;Blohm;Norbert;Imanuel-Kant-Straße;40;53112;Bonn;D;0228/788356;NULL;1985-07-24
+210;Durach;Doris;Paulusweg;2;13437;Berlin;D;NULL;NULL;1982-12-06
+211;Endrich;Wilhelm;Kurfürstenstraße;3;97070;Würzburg;D;0931/781268;NULL;1985-11-24
+212;Jahn;Dieter;Genther Straße;57;94032;Passau;D;NULL;NULL;1989-11-14
+213;Bilger;Emil;Frankfurter Allee;9;88361;Altshausen;D;NULL;NULL;1984-12-13
+214;Christ;Andreas;An der Schmiede;59;30053;Hannover;D;0511/616634;NULL;1984-03-04
+215;Haffner;Stefan;Am Westufer;54;63128;Dietzenbach;D;06074/38567;NULL;1981-07-29
+216;Kanther;Ulrike;Pariser Straße;104;80999;München;D;089/6517712;NULL;1982-11-29
+217;Ahfeldt;Siglinde;Karl-Marx-Straße;92;19077;Schwerin;D;0385/475752;NULL;1987-03-23
+218;Binder;Julia;Mozartstraße;61;97071;Würzburg;D;0931/817112;NULL;1983-03-26
+219;Meyer;Uschi;Am Schauspielhaus;94;53115;Bonn;D;0228/658834;NULL;1989-11-27
+220;Franke;Elfriede;Kurfürstenstraße;32;66111;Saarbrücken;D;NULL;NULL;1981-11-16
+221;Gerdes;Andreas;Gerichtsstraße;70;12055;Berlin;D;030/2477333;NULL;1986-05-05
+222;Schäfer;Claudia;Museumstraße;23;70176;Stuttgart;D;0711/754766;NULL;1986-06-13
+223;Lichtenstern;Fritz;Haydnweg;116;70175;Stuttgart;D;NULL;NULL;1988-10-03
+224;Schütz;Uli;Stuttgarter Straße;73;30046;Hannover;D;0511/582165;NULL;1982-12-13
+225;Döring;Emil;Theaterstraße;17;53112;Bonn;D;0228/832265;NULL;1983-04-02
+226;Paetzold;Xaver;Wothanallee;71;97070;Würzburg;D;NULL;NULL;1988-05-29
+227;Franke;Lisa;Pferdekoppel;111;53115;Bonn;D;0228/743317;NULL;1980-09-24
+228;Paetzold;Hannelore;Michiganseestraße;98;30046;Hannover;D;NULL;NULL;1985-02-21
+229;Eckert;Galathea;Donaustraße;41;66111;Saarbrücken;D;0681/887466;NULL;1987-04-09
+230;Baumann;Filomena;Am Westufer;79;53112;Bonn;D;NULL;NULL;1988-06-20
+231;Neubauer;Regina;Wilhelmstraße;32;80999;München;D;NULL;NULL;1987-02-23
+232;Ille;Dieter;Josefstraße;99;63128;Dietzenbach;D;06074/84746;NULL;1989-05-15
+233;Unger;Franz;Guntherstraße;72;39326;Colbitz;D;0392/574574;NULL;1989-02-03
+234;Rauch;Walter;Flensburger Straße;79;13437;Berlin;D;030/7387158;NULL;1988-06-22
+235;Rauch;Franz;Sigmund-Freud-Weg;8;22027;Hamburg;D;NULL;NULL;1984-02-07
+236;Schütz;Margarete;Blumenstraße;71;70175;Stuttgart;D;NULL;NULL;1982-02-10
+237;Urban;Ernst;Isac-Newton-Straße;102;94032;Passau;D;0851/435273;NULL;1987-07-11
+238;Becker;Paula;Chiemseestraße;89;12215;Berlin;D;030/8288154;NULL;1982-04-03
+239;Dienstbier;Iris;Kaiserstraße;74;55127;Mainz;D;06131/54342;NULL;1989-10-06
+240;Sindermann;Alfred;Siegriedstraße;120;97071;Würzburg;D;0931/725127;NULL;1986-08-12
+241;Sindermann;Franz;Hamburger Straße;39;39326;Colbitz;D;0392/148234;NULL;1985-05-23
+242;Ebner;Leonore;Leipziger Straße;79;70176;Stuttgart;D;0711/687881;NULL;1981-06-08
+243;Urban;Horst;Parkstraße;94;55127;Mainz;D;NULL;NULL;1988-09-22
+244;Scheel;Boris;Museumstraße;81;22027;Hamburg;D;040/3716161;NULL;1984-01-30
+245;Ille;Brunhilde;Bismarckstraße;25;66111;Saarbrücken;D;NULL;NULL;1987-03-24
+246;Stein;Ruth;Opernstraße;45;70176;Stuttgart;D;NULL;NULL;1986-07-06
+247;Ebner;Elisabeth;Müllerstraße;6;13437;Berlin;D;030/5754675;NULL;1981-11-09
+248;Kroll;Konrad;Veilchenweg;55;12055;Berlin;D;030/8647257;NULL;1981-06-01
+249;Schäfer;Franz;Müllerstraße;12;80999;München;D;089/4844338;NULL;1982-01-30
+250;Müller;Brunhilde;Sigmund-Freud-Weg;107;19077;Schwerin;D;NULL;NULL;1988-08-01
+251;Baumann;Stefanie;Bismarckstraße;34;94032;Passau;D;0851/241248;NULL;1986-05-15
+252;Christ;Margarete;Karl-Marx-Straße;60;30053;Hannover;D;0511/151185;NULL;1984-04-08
+253;Unglert;Stefan;Schillerstraße;111;12055;Berlin;D;NULL;NULL;1989-06-23
+254;Müller;Karl;Opernstraße;37;66111;Saarbrücken;D;NULL;NULL;1982-03-20
+255;Graetschel;Klaus;Freiburger Straße;44;88361;Altshausen;D;07584/36175;NULL;1989-10-29
+256;Lichtenstern;Heinz;Passauer Straße;8;70175;Stuttgart;D;NULL;NULL;1988-02-16
+257;Bilger;Julius;Londoner Weg;91;30053;Hannover;D;0511/383661;NULL;1980-06-17
+258;Rottmann;Horst;Warschauer Straße;63;19077;Schwerin;D;0385/714855;NULL;1982-03-22
+259;Lichtenstern;Wilhelm;Bremer Steige;60;13437;Berlin;D;030/2688176;NULL;1983-11-21
+260;Fischer;Thomas;Blumenstraße;3;55131;Mainz;D;06131/84128;NULL;1987-08-08
+261;Schulz;Inge;Amselweg;29;23843;Bad Oldeslohe;D;NULL;NULL;1980-04-02
+262;Faust;Boris;Michiganseestraße;68;80999;München;D;NULL;NULL;1980-12-18
+263;Lichtenstern;Ottfried;Düsseldorfer Straße;31;70175;Stuttgart;D;0711/637552;NULL;1982-08-26
+264;Rottmann;Galathea;Uhlandstraße;71;63128;Dietzenbach;D;NULL;NULL;1980-05-30
+265;Engelhardt;Nicole;Waldstraße;42;30046;Hannover;D;NULL;NULL;1983-02-21
+266;Ganther;Daniel;Huronseestraße;54;97071;Würzburg;D;0931/656137;NULL;1984-06-13
+267;Pelz;Peter;Freiburger Straße;33;30046;Hannover;D;NULL;NULL;1983-05-22
+268;Thierse;Ernst;Goethestraße;35;55131;Mainz;D;06131/52236;NULL;1984-05-08
+269;Binder;Jürgen;Bäckerweg;2;97070;Würzburg;D;0931/245578;NULL;1980-01-03
+270;Kroll;Tanja;Paulusweg;98;70176;Stuttgart;D;NULL;NULL;1984-11-04
+271;Peters;Bert;Mainzer Weg;25;22015;Hamburg;D;040/8283316;NULL;1989-09-15
+272;Pech;Cornelia;Imanuel-Kant-Straße;80;94032;Passau;D;0851/874741;NULL;1982-05-20
+273;Ehrhardt;Daniel;Wagnerring;115;80999;München;D;NULL;NULL;1985-01-27
+274;Sindermann;Iris;Michiganseestraße;61;55127;Mainz;D;06131/82211;NULL;1986-09-09
+275;Döring;Iris;Voltastraße;90;88361;Altshausen;D;NULL;NULL;1986-07-26
+276;Geyer;Thorsten;Sieversstraße;44;23843;Bad Oldeslohe;D;04531/26548;NULL;1981-08-14
+277;Wegner;Petra;Pariser Straße;56;12215;Berlin;D;030/1523814;NULL;1985-06-28
+278;Pelz;Tina;Haydnweg;53;97070;Würzburg;D;NULL;NULL;1983-02-20
+279;Pietsch;Waltraud;Bremer Steige;119;94032;Passau;D;0851/147171;NULL;1988-12-06
+280;Weber;Claudia;Josefstraße;27;12055;Berlin;D;030/5533586;NULL;1984-02-08
+281;Mende;Eugen;Paulusweg;111;97070;Würzburg;D;NULL;NULL;1983-10-08
+282;Palm;Peter;Am Stadtpark;53;30053;Hannover;D;NULL;NULL;1981-10-25
+283;Thiel;Roger;Goethestraße;77;81541;München;D;NULL;NULL;1985-12-30
+284;Rauch;Horst;Opernstraße;40;12215;Berlin;D;030/5645725;NULL;1981-05-30
+285;Döring;Mechthild;Pferdekoppel;87;19077;Schwerin;D;0385/112454;NULL;1980-08-10
+286;Linsenbold;Xaver;Huronseestraße;85;12055;Berlin;D;NULL;NULL;1989-10-18
+287;Paetzold;Inge;Museumstraße;39;63128;Dietzenbach;D;06074/76354;NULL;1982-08-17
+288;Dennewitz;Roger;Bequerelstraße;38;30053;Hannover;D;NULL;NULL;1989-03-02
+289;Paetzold;Paula;Blumenstraße;116;80809;München;D;NULL;NULL;1980-02-12
+290;Pelz;Lore;Freiburger Straße;36;53115;Bonn;D;NULL;NULL;1984-01-19
+291;Danner;Sigfried;Bequerelstraße;92;22015;Hamburg;D;NULL;NULL;1980-02-10
+292;Thiel;Gertrud;Warschauer Straße;18;88361;Altshausen;D;NULL;NULL;1986-06-11
+293;Danner;Paula;Blumenstraße;84;55131;Mainz;D;NULL;NULL;1980-04-10
+294;Heller;Andreas;Lerchenweg;97;13437;Berlin;D;NULL;NULL;1984-12-01
+295;Dittert;Daniala;Pariser Straße;13;12055;Berlin;D;NULL;NULL;1985-03-09
+296;Kanther;Peter;Münchner Allee;69;53115;Bonn;D;0228/363314;NULL;1983-11-10
+297;Blohm;Esther;Goethestraße;54;97070;Würzburg;D;0931/788257;NULL;1984-05-17
+298;Jahn;Mathias;Am Schauspielhaus;107;53112;Bonn;D;0228/235868;NULL;1985-01-04
+299;Kundt;Dirk;Freiburger Straße;68;97070;Würzburg;D;NULL;NULL;1986-07-22
+300;Ganther;Andreas;Goethestraße;30;13437;Berlin;D;NULL;NULL;1981-03-22
+301;Becker;Heinz;Ebertstraße;101;22027;Hamburg;D;040/5666735;NULL;1980-11-11
+302;Ackermann;Anna;Am Stadtpark;52;80809;München;D;089/6745233;NULL;1987-11-15
+303;Thiel;Holger;Paulusweg;9;94032;Passau;D;NULL;NULL;1981-10-11
+304;Junker;Hans;An der Philharmonie;106;81541;München;D;NULL;NULL;1982-10-10
+305;Gallus;Mathias;Ravensburger Straße;109;19077;Schwerin;D;0385/228852;NULL;1988-12-18
+306;Gerdes;Werner;Freiburger Straße;76;53112;Bonn;D;0228/321342;NULL;1989-05-08
+307;Haffner;Thorsten;Müllerstraße;58;80999;München;D;089/4236231;NULL;1984-05-22
+308;Sindermann;Bianca;Werbellinseestraße;75;80809;München;D;NULL;NULL;1988-10-23
+309;Hanke;Paul;Am Schauspielhaus;56;19077;Schwerin;D;NULL;NULL;1988-10-25
+310;Schulz;Heinz;Hindenburgstraße;65;55131;Mainz;D;06131/67832;NULL;1984-12-27
+311;Schulz;Stefanie;Blumenstraße;57;30053;Hannover;D;0511/256534;NULL;1987-09-28
+312;Pech;Bianca;Huronseestraße;81;19077;Schwerin;D;NULL;NULL;1988-08-22
+313;Emmerich;Waltraud;Wilhelmstraße;55;55131;Mainz;D;NULL;NULL;1980-02-17
+314;Ost;Peter;Beethovenstraße;24;12055;Berlin;D;030/2537774;NULL;1985-07-12
+315;Kubicki;Jürgen;Federseestraße;31;80999;München;D;NULL;NULL;1984-01-17
+316;Krause;Lisa;Federseestraße;117;22015;Hamburg;D;040/3321517;NULL;1988-11-10
+317;Ceron;Oskar;Wagnerring;114;53115;Bonn;D;0228/122677;NULL;1982-02-24
+318;Ostertag;Michael;Donaustraße;40;70175;Stuttgart;D;0711/852454;NULL;1984-07-25
+319;Adrian;Elisabeth;Alter Markt;68;22027;Hamburg;D;040/1633561;NULL;1983-02-25
+320;Raffael;Andreas;Paulusweg;30;19077;Schwerin;D;0385/151351;NULL;1983-10-19
+321;Degenhardt;Achim;Bequerelstraße;41;80999;München;D;089/2765272;NULL;1980-07-24
+322;Ehrmann;Doris;Am Schauspielhaus;99;97071;Würzburg;D;0931/338586;NULL;1982-05-22
+323;Voigt;Uschi;Düsseldorfer Straße;101;23843;Bad Oldeslohe;D;04531/66361;NULL;1981-11-01
+324;Durach;Roswitha;Hamburger Straße;74;39326;Colbitz;D;0392/335151;NULL;1981-09-13
+325;Ganther;Paula;Opernstraße;92;39326;Colbitz;D;0392/687576;NULL;1985-03-08
+326;Ganther;Jürgen;Hertz-Allee;31;55127;Mainz;D;NULL;NULL;1981-05-08
+327;Mende;Holger;Schubertstraße;79;66111;Saarbrücken;D;NULL;NULL;1986-12-24
+328;Busch;Tina;Bremer Steige;88;30053;Hannover;D;NULL;NULL;1981-08-14
+329;Durach;Konrad;Bismarckstraße;70;80999;München;D;NULL;NULL;1988-04-17
+330;Kanther;Walter;Pariser Straße;38;39326;Colbitz;D;NULL;NULL;1989-09-15
+331;Adrian;Julia;Chiemseestraße;98;81541;München;D;089/8751613;NULL;1989-04-10
+332;Drache;Filomena;Kurfürstenstraße;18;12215;Berlin;D;NULL;NULL;1984-12-28
+333;Voigt;Jürgen;Kieler Weg;37;70176;Stuttgart;D;NULL;NULL;1981-09-08
+334;Mende;Fritz;Düsseldorfer Straße;68;80809;München;D;NULL;NULL;1982-11-01
+335;Palm;Karl;Frankfurter Allee;117;66111;Saarbrücken;D;NULL;NULL;1986-04-09
+336;Kubicki;Dirk;An der Schmiede;65;9599;Freiberg;D;03731/51745;NULL;1989-01-19
+337;Gallus;Vanessa;Michiganseestraße;105;63128;Dietzenbach;D;NULL;NULL;1985-04-20
+338;Neubauer;Emil;Düsseldorfer Straße;98;22015;Hamburg;D;040/4583215;NULL;1983-08-27
+339;Reder;Siglinde;Paulusweg;21;80809;München;D;089/2435155;NULL;1988-01-17
+340;Döring;Viktoria;Leipziger Straße;52;63128;Dietzenbach;D;06074/84568;NULL;1986-09-23
+341;Dennewitz;Uli;Bremer Steige;20;97071;Würzburg;D;NULL;NULL;1983-10-07
+342;Ehrmann;Bernd;Linus-Pauli-Ring;93;80999;München;D;NULL;NULL;1981-10-10
+343;Oppermann;Paul;Ravensburger Straße;26;66111;Saarbrücken;D;NULL;NULL;1984-03-25
+344;Geyer;Julia;Hermannstraße;51;97071;Würzburg;D;0931/465785;NULL;1983-03-01
+345;Peters;Hans;Ravensburger Straße;99;10319;Berlin;D;030/6876865;NULL;1981-02-01
+346;Peters;Margarete;Parkstraße;66;53112;Bonn;D;0228/623437;NULL;1983-09-02
+347;Linsenbold;Nicole;Hindenburgstraße;38;19077;Schwerin;D;0385/867438;NULL;1985-10-08
+348;Ehrhardt;Julia;Huronseestraße;92;39326;Colbitz;D;0392/567632;NULL;1980-04-28
+349;Runge;Waltraud;Adlerring;109;70175;Stuttgart;D;0711/211573;NULL;1988-03-07
+350;Neubauer;Bert;Rosenstraße;15;88361;Altshausen;D;NULL;NULL;1987-03-19
+351;Christ;Hans;Blumenstraße;74;94032;Passau;D;NULL;NULL;1983-06-13
+352;Runge;Dirk;Gerichtsstraße;91;97071;Würzburg;D;0931/216328;NULL;1988-08-03
+353;Scheel;Iris;Am Schauspielhaus;68;30046;Hannover;D;NULL;NULL;1988-07-13
+354;Mende;Oskar;Schusterstraße;91;80999;München;D;NULL;NULL;1982-06-03
+355;Ahfeldt;Oskar;Sieversstraße;100;97071;Würzburg;D;0931/264223;NULL;1987-07-12
+356;Ebner;Horst;Bismarckstraße;42;53115;Bonn;D;NULL;NULL;1983-02-03
+357;Vogel;Dirk;Parkstraße;119;30053;Hannover;D;NULL;NULL;1980-02-28
+358;Dennewitz;Achim;Bequerelstraße;64;30053;Hannover;D;NULL;NULL;1988-04-14
+359;Pech;Wilhelm;Gerberufer;3;19077;Schwerin;D;0385/675365;NULL;1989-10-07
+360;Pietsch;Viktoria;Haydnweg;90;30046;Hannover;D;NULL;NULL;1988-01-18
+361;Voigt;Siglinde;Am Schauspielhaus;116;80809;München;D;089/8883225;NULL;1981-04-22
+362;Ackermann;Esther;Museumstraße;52;28273;Bremen;D;NULL;NULL;1983-03-17
+363;Rauch;Karl;Wilhelmstraße;3;23843;Bad Oldeslohe;D;04531/38674;NULL;1984-04-06
+364;Becker;Ottfried;Sieversstraße;38;81541;München;D;NULL;NULL;1987-09-29
+365;Bilger;Petra;Dolgenseestraße;19;28273;Bremen;D;NULL;NULL;1981-05-28
+366;Borst;Filomena;Ravensburger Straße;81;97070;Würzburg;D;NULL;NULL;1989-08-29
+367;Engelhardt;Thomas;Bequerelstraße;5;53115;Bonn;D;NULL;NULL;1981-02-18
+368;Endrich;Claudia;Sigmund-Freud-Weg;18;23843;Bad Oldeslohe;D;04531/48487;NULL;1983-04-30
+369;Müller;Thorsten;Haydnweg;4;55131;Mainz;D;06131/18856;NULL;1982-01-10
+370;Bilger;Cecilie;Huronseestraße;83;97071;Würzburg;D;0931/253731;NULL;1983-01-20
+371;Geyer;Heinz;Kaiserstraße;68;28273;Bremen;D;NULL;NULL;1989-07-29
+372;Eckert;Julia;Imanuel-Kant-Straße;101;97070;Würzburg;D;0931/257738;NULL;1989-05-29
+373;Neuendorf;Konrad;Nürnberger Straße;35;30046;Hannover;D;NULL;NULL;1985-08-12
+374;Raffael;Waltraud;Hasenheide;5;70175;Stuttgart;D;0711/253164;NULL;1986-01-09
+375;Ostertag;Leonore;Amselweg;10;28273;Bremen;D;NULL;NULL;1986-04-21
+376;Rottmann;Xaver;Bodenseestraße;60;94032;Passau;D;NULL;NULL;1982-09-12
+377;Jahn;Regina;Marienstraße;39;10319;Berlin;D;030/3855416;NULL;1984-01-20
+378;Drache;Ansgar;Gerberufer;32;19077;Schwerin;D;NULL;NULL;1984-10-12
+379;Neubauer;Anna;Linus-Pauli-Ring;24;22027;Hamburg;D;040/2635537;NULL;1989-08-03
+380;Rauch;Ansgar;Haydnweg;43;13437;Berlin;D;030/5236781;NULL;1985-08-13
+381;Vogel;Uli;Düsseldorfer Straße;14;66111;Saarbrücken;D;NULL;NULL;1986-12-14
+382;Faust;Ulrike;Imanuel-Kant-Straße;85;53115;Bonn;D;0228/565367;NULL;1989-02-03
+383;Ehrmann;Galathea;Parkstraße;26;12055;Berlin;D;030/2621527;NULL;1983-08-11
+384;Oppermann;Petra;Wothanallee;3;55127;Mainz;D;06131/16818;NULL;1987-02-06
+385;Gerdes;Anna;Paulusweg;56;80809;München;D;089/2247385;NULL;1988-09-18
+386;Dienstbier;Ansgar;Londoner Weg;12;9599;Freiberg;D;03731/18168;NULL;1989-09-27
+387;Gallus;Sigmund;Donaustraße;10;13437;Berlin;D;030/7781445;NULL;1983-06-16
+388;Kroll;Adolf;Am Schauspielhaus;97;22015;Hamburg;D;NULL;NULL;1989-10-07
+389;Paetzold;Horst;Parkstraße;118;10319;Berlin;D;NULL;NULL;1983-03-30
+390;Busch;Julia;Londoner Weg;78;66111;Saarbrücken;D;NULL;NULL;1984-05-25
+391;Pelz;Dagmar;Guntherstraße;46;94032;Passau;D;0851/687823;NULL;1988-06-18
+392;Wegner;Ulrike;Arnsberger Straße;81;28273;Bremen;D;NULL;NULL;1982-04-01
+393;Hoffmann;Lisa;Münchner Allee;88;81541;München;D;089/3788621;NULL;1984-06-19
+394;Rauch;Rita;Düsseldorfer Straße;23;55127;Mainz;D;NULL;NULL;1988-10-26
+395;Eckert;Dagmar;Bismarckstraße;47;9599;Freiberg;D;03731/43316;NULL;1983-07-09
+396;Reder;Gertrud;Kurfürstenstraße;30;23843;Bad Oldeslohe;D;04531/86766;NULL;1989-07-16
+397;Christ;Cornelia;Freiburger Straße;7;30046;Hannover;D;0511/678235;NULL;1982-04-06
+398;Peters;Lisa;Waldstraße;8;28273;Bremen;D;NULL;NULL;1984-05-08
+399;Ost;Hiltrud;Stuttgarter Straße;19;22015;Hamburg;D;040/6683883;NULL;1981-11-19
+400;Adrian;Ulrike;Haydnweg;17;55127;Mainz;D;06131/31161;NULL;1980-04-24
+401;Junker;Boris;Amselweg;36;70175;Stuttgart;D;NULL;NULL;1980-09-23
+402;Eckert;Margarete;Amselweg;55;80999;München;D;089/2853783;NULL;1981-04-05
+403;Ahnert;Eleonore;Ulmer Ring;60;97071;Würzburg;D;0931/571737;NULL;1989-09-06
+404;Neuendorf;Manfred;Gerberufer;36;53112;Bonn;D;0228/648783;NULL;1981-11-23
+405;Dienstbier;Michael;Wilhelmstraße;42;97071;Würzburg;D;NULL;NULL;1989-09-07
+406;Dohrow;Tina;Goethestraße;29;55131;Mainz;D;06131/87763;NULL;1985-12-21
+407;Lichtenstern;Daniel;Weserstraße;16;30046;Hannover;D;0511/824228;NULL;1988-09-29
+408;Christ;Anna;An der Philharmonie;106;23843;Bad Oldeslohe;D;NULL;NULL;1988-11-02
+409;Dittert;Dorothea;Dolgenseestraße;100;63128;Dietzenbach;D;NULL;NULL;1982-12-11
+410;Degenhardt;Eugen;Flensburger Straße;106;13437;Berlin;D;030/3315675;NULL;1980-10-18
+411;Stocker;Jürgen;Wagnerring;63;12055;Berlin;D;030/7783313;NULL;1980-04-02
+412;Haffner;Elfriede;Marienstraße;45;55127;Mainz;D;06131/16175;NULL;1983-04-22
+413;Ehrmann;Vanessa;Kaiserstraße;34;53115;Bonn;D;0228/774583;NULL;1984-04-29
+414;Lichtenstern;Uschi;Marienstraße;74;97071;Würzburg;D;NULL;NULL;1987-11-16
+415;Horstmann;Gottfried;Hermannstraße;82;28273;Bremen;D;NULL;NULL;1989-02-20
+416;Degenhardt;Michael;Bequerelstraße;74;19077;Schwerin;D;NULL;NULL;1985-04-24
+417;Danner;Achim;Chemnitzer Straße;51;63128;Dietzenbach;D;06074/58843;NULL;1981-09-20
+418;Stocker;Fritz;Londoner Weg;66;55127;Mainz;D;06131/27472;NULL;1984-03-31
+419;Sindermann;Stefanie;Münchner Allee;32;22027;Hamburg;D;NULL;NULL;1986-10-31
+420;Stocker;Konrad;Warschauer Straße;29;39326;Colbitz;D;NULL;NULL;1989-01-21
+421;Ahfeldt;Roger;Isac-Newton-Straße;78;30053;Hannover;D;NULL;NULL;1988-05-21
+422;Fuchs;Karl;Haydnweg;114;97070;Würzburg;D;0931/337443;NULL;1984-12-31
+423;Baumann;Bernd;Müllerstraße;7;97070;Würzburg;D;NULL;NULL;1980-03-07
+424;Baumann;Ansgar;Pferdekoppel;35;30053;Hannover;D;0511/861245;NULL;1982-01-20
+425;Sindermann;Stefan;Lerchenweg;6;55127;Mainz;D;06131/41561;NULL;1988-10-08
+426;Pech;Horst;Donaustraße;110;19077;Schwerin;D;0385/252624;NULL;1984-01-28
+427;Geiger;Filomena;Ulmer Ring;11;80999;München;D;089/4734718;NULL;1986-12-24
+428;Ganther;Hans;Am Stadtpark;72;80809;München;D;089/6544644;NULL;1985-09-02
+429;Ehrhardt;Klaus;Ravensburger Straße;108;30053;Hannover;D;NULL;NULL;1982-04-08
+430;Hoffmann;Karl;Adlerring;70;12055;Berlin;D;030/8174556;NULL;1989-10-01
+431;Adrian;Andreas;Bremer Steige;46;28273;Bremen;D;NULL;NULL;1982-11-12
+432;Runge;Stefanie;Beethovenstraße;20;97071;Würzburg;D;0931/144681;NULL;1981-07-18
+433;Rottmann;Bert;Augsburger Straße;20;70175;Stuttgart;D;0711/163614;NULL;1984-12-23
+434;Binder;Tanja;Augsburger Straße;98;55131;Mainz;D;06131/33522;NULL;1984-06-20
+435;Reder;Adolf;An der Philharmonie;39;22015;Hamburg;D;040/6155428;NULL;1985-08-19
+436;Mende;Bianca;Brüsseler Straße;3;28273;Bremen;D;NULL;NULL;1980-02-02
+437;Ahfeldt;Julian;Lichtensternweg;77;22027;Hamburg;D;NULL;NULL;1982-09-25
+438;Franke;Claudia;Lerchenweg;109;23843;Bad Oldeslohe;D;NULL;NULL;1980-04-15
+439;Unger;Leonore;Schusterstraße;4;28273;Bremen;D;NULL;NULL;1981-12-19
+440;Danner;Judith;Weserstraße;116;97071;Würzburg;D;0931/781467;NULL;1985-05-22
+441;Junker;Alfred;Imanuel-Kant-Straße;111;70176;Stuttgart;D;NULL;NULL;1989-06-23
+442;Gallus;Galathea;Chiemseestraße;74;10319;Berlin;D;030/1861466;NULL;1981-06-22
+443;Becker;Judith;Dolgenseestraße;1;70175;Stuttgart;D;0711/675416;NULL;1984-09-25
+444;Peters;Walter;Marienstraße;6;80999;München;D;NULL;NULL;1986-04-01
+445;Pech;Ottfried;Dolgenseestraße;120;22027;Hamburg;D;040/6435732;NULL;1989-01-06
+446;Emmerich;Julius;Theaterstraße;61;81541;München;D;089/5864818;NULL;1981-08-11
+447;Neubauer;Tanja;Am Westufer;48;53115;Bonn;D;NULL;NULL;1982-04-11
+448;Wegner;Dagmar;Pariser Straße;117;12055;Berlin;D;030/6373376;NULL;1982-06-05
+449;Fischer;Daniala;Lerchenweg;32;70175;Stuttgart;D;0711/436844;NULL;1983-06-25
+450;Rauch;Andreas;Edisonweg;80;22015;Hamburg;D;040/3285846;NULL;1982-11-21
+451;Reder;Norbert;Wothanallee;29;94032;Passau;D;NULL;NULL;1985-09-29
+452;Engelhardt;Hans;Bischofstraße;73;66111;Saarbrücken;D;0681/513128;NULL;1983-10-17
+453;Horstmann;Wilhelm;An der Schmiede;100;53115;Bonn;D;0228/853536;NULL;1982-01-28
+454;Rottmann;Oskar;Werbellinseestraße;77;70176;Stuttgart;D;0711/271152;NULL;1985-08-29
+455;Vogel;Lore;Augsburger Straße;76;80999;München;D;NULL;NULL;1980-05-14
+456;Bilger;Mathias;Bodenseestraße;9;94032;Passau;D;0851/865646;NULL;1984-11-10
+457;Wagner;Fritz;Müllerstraße;120;70175;Stuttgart;D;NULL;NULL;1984-11-10
+458;Unger;Stefan;Donaustraße;118;13437;Berlin;D;NULL;NULL;1984-06-20
+459;Hanke;Siglinde;Hasenheide;7;53112;Bonn;D;0228/268831;NULL;1989-01-06
+460;Schulz;Karl;Hamburger Straße;82;13437;Berlin;D;030/7848186;NULL;1983-10-29
+461;Kroll;Daniala;Schubertstraße;89;10319;Berlin;D;030/1168234;NULL;1984-02-06
+462;Ebner;Bernd;Donaustraße;112;19077;Schwerin;D;NULL;NULL;1985-11-04
+463;Peters;Tanja;Ravensburger Straße;55;97070;Würzburg;D;0931/388133;NULL;1982-09-11
+464;Horstmann;Bianca;Rosenstraße;48;70175;Stuttgart;D;0711/242683;NULL;1982-02-09
+465;Drache;Eleonore;Uhlandstraße;115;10319;Berlin;D;NULL;NULL;1985-10-07
+466;Unger;Walter;Beethovenstraße;86;80809;München;D;089/2551112;NULL;1988-08-27
+467;Jahn;Hans;Siegriedstraße;108;55127;Mainz;D;NULL;NULL;1986-01-04
+468;Neuendorf;Galathea;Mainzer Weg;112;53112;Bonn;D;0228/182786;NULL;1988-12-03
+469;Baumann;Daniel;Freiburger Straße;79;22015;Hamburg;D;040/2842455;NULL;1983-07-31
+470;Müller;Doris;Buchfinkenstraße;60;39326;Colbitz;D;NULL;NULL;1980-05-15
+471;Ehrhardt;Werner;Ravensburger Straße;51;13437;Berlin;D;NULL;NULL;1981-01-22
+472;Ille;Thomas;Wagnerring;22;28273;Bremen;D;0421/378642;NULL;1984-09-14
+473;Fichtl;Margarete;Brüsseler Straße;62;55131;Mainz;D;NULL;NULL;1982-05-15
+474;Ahfeldt;Franz;Passauer Straße;98;70175;Stuttgart;D;0711/575514;NULL;1981-04-15
+475;Degenhardt;Klaus;Isac-Newton-Straße;43;80809;München;D;089/7851412;NULL;1988-10-04
+476;Geyer;Uschi;Bismarckstraße;95;94032;Passau;D;NULL;NULL;1984-05-14
+477;Neuendorf;Carsten;Beethovenstraße;31;53112;Bonn;D;0228/321357;NULL;1984-06-14
+478;Dienstbier;Andreas;Paulusweg;75;30046;Hannover;D;0511/181457;NULL;1986-08-08
+479;Weber;Hannelore;Alter Markt;60;19077;Schwerin;D;NULL;NULL;1984-08-08
+480;Pech;Rita;Albert-Einstein-Weg;43;10319;Berlin;D;030/4234263;NULL;1984-04-27
+481;Krause;Karl;An der Philharmonie;113;53112;Bonn;D;0228/115333;NULL;1988-11-28
+482;Krause;Mechthild;Wagnerring;24;10319;Berlin;D;030/7686317;NULL;1984-03-12
+483;Danner;Margarete;Wagnerring;75;12055;Berlin;D;030/7532115;NULL;1986-01-18
+484;Engelhardt;Gottfried;Frankfurter Allee;84;80809;München;D;089/4146753;NULL;1986-07-08
+485;Krause;Günther;Buchfinkenstraße;11;10319;Berlin;D;NULL;NULL;1980-07-15
+486;Rottmann;Manfred;An der Schmiede;39;94032;Passau;D;0851/178287;NULL;1987-04-24
+487;Graetschel;Alfred;Am Stadtpark;87;94032;Passau;D;0851/373365;NULL;1983-10-10
+488;Ackermann;Boris;Linus-Pauli-Ring;99;12055;Berlin;D;030/8611645;NULL;1981-08-03
+489;Ceron;Boris;Hasenheide;108;55131;Mainz;D;06131/27571;NULL;1980-05-27
+490;Ganther;Galathea;An der Philharmonie;26;55131;Mainz;D;NULL;NULL;1986-08-07
+491;Ceron;Horst;Nürnberger Straße;75;22027;Hamburg;D;NULL;NULL;1985-05-10
+492;Pietsch;Norbert;Stuttgarter Straße;95;70175;Stuttgart;D;0711/623771;NULL;1986-12-29
+493;Unglert;Adolf;Am Schauspielhaus;64;88361;Altshausen;D;NULL;NULL;1987-12-13
+494;Hoffmann;Roswitha;Edisonweg;48;12215;Berlin;D;NULL;NULL;1989-01-21
+495;Ahfeldt;Holger;Stuttgarter Straße;45;28273;Bremen;D;NULL;NULL;1981-01-10
+496;Pelz;Rita;Hermannstraße;62;22027;Hamburg;D;NULL;NULL;1987-05-18
+497;Wagner;Ansgar;Londoner Weg;118;97071;Würzburg;D;0931/525711;NULL;1988-03-10
+498;Mende;Mathias;An der Schmiede;4;28273;Bremen;D;0421/862337;NULL;1986-04-19
+499;Kanther;Dieter;Linus-Pauli-Ring;31;55131;Mainz;D;06131/72813;NULL;1984-07-24
+500;Sindermann;Margarete;Edisonweg;60;30046;Hannover;D;NULL;NULL;1980-06-03
+501;Ostertag;Stefanie;Michiganseestraße;107;55127;Mainz;D;06131/33852;NULL;1987-11-23
+502;Thierse;Bernd;Elbestraße;111;22027;Hamburg;D;NULL;NULL;1988-08-20
+503;Dohrow;Boris;Chemnitzer Straße;107;12055;Berlin;D;NULL;NULL;1984-07-10
+504;Ahfeldt;Wilhelm;Marienstraße;82;55127;Mainz;D;06131/78141;NULL;1983-02-08
+505;Engelhardt;Uli;Stuttgarter Straße;84;94032;Passau;D;0851/585655;NULL;1981-08-01
+506;Scheel;Xaver;Amselweg;107;28273;Bremen;D;0421/377855;NULL;1986-10-13
+507;Blohm;Tina;Gerichtsstraße;118;70176;Stuttgart;D;0711/515577;NULL;1988-12-01
+508;Ehrhardt;Hans;Schusterstraße;103;70176;Stuttgart;D;0711/576873;NULL;1989-09-12
+509;Thierse;Dagmar;Haydnweg;28;10319;Berlin;D;NULL;NULL;1986-11-24
+510;Maier;Paula;Freiburger Straße;37;23843;Bad Oldeslohe;D;NULL;NULL;1986-10-28
+511;Ehrmann;Wilhelm;Königsallee;80;88361;Altshausen;D;07584/53352;NULL;1989-05-22
+512;Geiger;Thomas;Münchner Allee;114;80809;München;D;NULL;NULL;1986-04-22
+513;Horstmann;Dagmar;Theaterstraße;22;13437;Berlin;D;030/2868843;NULL;1989-07-21
+514;Christ;Judith;Buchfinkenstraße;6;28273;Bremen;D;0421/716725;NULL;1981-12-03
+515;Emmerich;Filomena;Hasenheide;47;13437;Berlin;D;NULL;NULL;1984-05-31
+516;Hertling;Ansgar;Bäckerweg;119;53115;Bonn;D;NULL;NULL;1987-06-10
+517;Geyer;Stefanie;Frankfurter Allee;46;30053;Hannover;D;0511/282237;NULL;1987-12-17
+518;Ahnert;Judith;Lerchenweg;37;55127;Mainz;D;NULL;NULL;1983-08-26
+519;Ceron;Konrad;Buchfinkenstraße;25;9599;Freiberg;D;NULL;NULL;1980-03-15
+520;Drache;Uli;Weserstraße;102;19077;Schwerin;D;NULL;NULL;1987-11-03
+521;Rasemann;Uli;Wilhelmstraße;113;81541;München;D;089/1347854;NULL;1987-01-19
+522;Vogel;Doris;Sigmund-Freud-Weg;4;70175;Stuttgart;D;0711/628784;NULL;1983-05-25
+523;Drache;Horst;Flensburger Straße;22;63128;Dietzenbach;D;NULL;NULL;1984-03-22
+524;Hanke;Esther;Nürnberger Straße;27;97070;Würzburg;D;0931/176252;NULL;1983-09-16
+525;Binder;Wilhelm;An der Schmiede;8;94032;Passau;D;0851/333212;NULL;1981-06-14
+526;Horstmann;Rita;Museumstraße;110;30046;Hannover;D;NULL;NULL;1986-10-22
+527;Runge;Konrad;Bremer Steige;120;30053;Hannover;D;NULL;NULL;1989-12-14
+528;Emmerich;Paul;Chemnitzer Straße;116;88361;Altshausen;D;NULL;NULL;1989-05-23
+529;Ehrmann;Dorothea;Pariser Straße;36;70175;Stuttgart;D;0711/248427;NULL;1985-03-19
+530;Busch;Doris;Hindenburgstraße;31;23843;Bad Oldeslohe;D;NULL;NULL;1985-03-11
+531;Gallus;Daniala;Kaiserstraße;35;53115;Bonn;D;0228/773772;NULL;1985-04-22
+532;Gallus;Julius;Haydnweg;34;80809;München;D;NULL;NULL;1986-09-04
+533;Lichtenstern;Hannelore;Flensburger Straße;89;19077;Schwerin;D;0385/817361;NULL;1983-04-21
+534;Durach;Tanja;Bodenseestraße;10;9599;Freiberg;D;03731/32813;NULL;1980-04-06
+535;Franke;Tanja;Ravensburger Straße;74;12055;Berlin;D;NULL;NULL;1984-12-30
+536;Ebner;Klaus;Uhlandstraße;73;53112;Bonn;D;0228/221276;NULL;1981-11-05
+537;Emmerich;Peter;Hermannstraße;46;70176;Stuttgart;D;NULL;NULL;1989-12-25
+538;Geiger;Dagmar;Gerichtsstraße;37;70175;Stuttgart;D;0711/833256;NULL;1984-05-11
+539;Voigt;Klaus;Pferdekoppel;1;12055;Berlin;D;030/7861288;NULL;1989-12-22
+540;Endrich;Oskar;Wothanallee;27;30053;Hannover;D;NULL;NULL;1984-10-07
+541;Weber;Ulrike;Mainzer Weg;87;23843;Bad Oldeslohe;D;04531/38773;NULL;1983-08-29
+542;Thierse;Roger;Federseestraße;37;97071;Würzburg;D;0931/276763;NULL;1986-06-03
+543;Fischer;Ottfried;Brüsseler Straße;78;22027;Hamburg;D;040/5161627;NULL;1986-04-24
+544;Gallus;Adolf;Karl-Marx-Straße;53;39326;Colbitz;D;0392/161482;NULL;1984-12-29
+545;Junker;Werner;Wilhelmstraße;88;22027;Hamburg;D;040/3675184;NULL;1988-10-04
+546;Ahnert;Elfriede;Am Westufer;48;55127;Mainz;D;06131/41435;NULL;1985-05-21
+547;Hanke;Vanessa;Veilchenweg;65;53115;Bonn;D;NULL;NULL;1980-09-29
+548;Ehrmann;Alfred;Stuttgarter Straße;89;53115;Bonn;D;NULL;NULL;1981-09-19
+549;Haffner;Filomena;Freiburger Straße;64;80999;München;D;NULL;NULL;1984-11-07
+550;Ost;Adolf;Hermannstraße;14;9599;Freiberg;D;03731/64612;NULL;1982-05-14
+551;Thierse;Wilhelm;Lerchenweg;51;70176;Stuttgart;D;0711/575121;NULL;1986-05-05
+552;Dittert;Volker;Alter Markt;26;53115;Bonn;D;NULL;NULL;1982-08-13
+553;Sindermann;Roswitha;Kaiserstraße;22;81541;München;D;089/6564587;NULL;1982-08-22
+554;Peters;Hannelore;Kaiserstraße;93;39326;Colbitz;D;NULL;NULL;1981-09-21
+555;Palm;Lore;Kieler Weg;28;19077;Schwerin;D;0385/278443;NULL;1983-07-09
+556;Ganther;Claudia;Wilhelmstraße;102;88361;Altshausen;D;NULL;NULL;1989-09-27
+557;Krause;Horst;Josefstraße;85;19077;Schwerin;D;NULL;NULL;1980-02-04
+558;Hoffmann;Viktoria;Nürnberger Straße;12;22027;Hamburg;D;040/7647373;NULL;1981-07-13
+559;Emmerich;Andreas;Pferdekoppel;105;63128;Dietzenbach;D;06074/11352;NULL;1988-11-05
+560;Pech;Dirk;Regensburger Straße;5;55131;Mainz;D;NULL;NULL;1981-07-25
+561;Linsenbold;Vanessa;Freiburger Straße;77;30046;Hannover;D;0511/752546;NULL;1982-02-28
+562;Voigt;Doris;Weserstraße;60;12055;Berlin;D;030/3626431;NULL;1985-04-27
+563;Rauch;Sigfried;Museumstraße;105;70176;Stuttgart;D;0711/258258;NULL;1980-05-11
+564;Fuchs;Margarete;Marienstraße;113;80999;München;D;NULL;NULL;1982-11-23
+565;Hanke;Uschi;Leipziger Straße;41;70176;Stuttgart;D;NULL;NULL;1987-07-19
+566;Dittert;Konrad;Gerberufer;17;13437;Berlin;D;NULL;NULL;1981-08-04
+567;Horstmann;Julius;Pariser Straße;37;66111;Saarbrücken;D;0681/626437;NULL;1984-03-15
+568;Rottmann;Waltraud;Dolgenseestraße;95;23843;Bad Oldeslohe;D;04531/45632;NULL;1981-05-27
+569;Wagner;Petra;Bischofstraße;75;22015;Hamburg;D;040/3755876;NULL;1985-03-29
+570;Kanther;Ernst;Gerichtsstraße;51;70175;Stuttgart;D;0711/266815;NULL;1988-12-23
+571;Neubauer;Leonore;Augsburger Straße;96;23843;Bad Oldeslohe;D;04531/86361;NULL;1981-01-22
+572;Hanke;Rita;Hamburger Straße;51;80999;München;D;NULL;NULL;1983-11-07
+573;Kundt;Achim;Bequerelstraße;79;10319;Berlin;D;030/4868173;NULL;1982-04-15
+574;Hanke;Stefanie;Am Westufer;77;70175;Stuttgart;D;0711/134748;NULL;1986-07-23
+575;Rasemann;Daniala;Wagnerring;120;22015;Hamburg;D;NULL;NULL;1982-05-30
+576;Hertling;Paula;Schillerstraße;90;39326;Colbitz;D;NULL;NULL;1985-12-10
+577;Ehrhardt;Norbert;Goethestraße;8;88361;Altshausen;D;07584/41264;NULL;1988-04-11
+578;Ceron;Stefanie;Sigmund-Freud-Weg;98;70175;Stuttgart;D;0711/847471;NULL;1980-09-25
+579;Mende;Daniel;Mozartstraße;38;94032;Passau;D;0851/788351;NULL;1987-03-18
+580;Dienstbier;Tanja;Flensburger Straße;11;88361;Altshausen;D;NULL;NULL;1983-10-05
+581;Horstmann;Holger;Ebertstraße;64;63128;Dietzenbach;D;06074/16716;NULL;1984-08-24
+582;Junker;Manfred;Werbellinseestraße;115;53112;Bonn;D;0228/625316;NULL;1985-09-15
+583;Ahnert;Horst;Sigmund-Freud-Weg;56;30046;Hannover;D;0511/864153;NULL;1986-01-01
+584;Haffner;Brunhilde;Hermannstraße;64;80999;München;D;NULL;NULL;1983-06-18
+585;Dohrow;Judith;Alter Markt;20;81541;München;D;NULL;NULL;1980-07-06
+586;Paetzold;Vanessa;Parkstraße;10;81541;München;D;NULL;NULL;1984-07-17
+587;Schulz;Esther;Mainzer Weg;23;66111;Saarbrücken;D;0681/151632;NULL;1986-09-30
+588;Bilger;Dagmar;Leipziger Straße;88;19077;Schwerin;D;NULL;NULL;1987-10-22
+589;Oppermann;Galathea;Hertz-Allee;114;97071;Würzburg;D;NULL;NULL;1981-01-20
+590;Urban;Filomena;Bischofstraße;105;80809;München;D;NULL;NULL;1987-09-28
+591;Dohrow;Julia;Bismarckstraße;6;22027;Hamburg;D;NULL;NULL;1989-10-04
+592;Heller;Doris;Linus-Pauli-Ring;4;97071;Würzburg;D;0931/458158;NULL;1981-04-04
+593;Gallus;Mechthild;Arnsberger Straße;5;55127;Mainz;D;NULL;NULL;1985-01-18
+594;Kanther;Roswitha;Blumenstraße;30;97070;Würzburg;D;0931/653262;NULL;1982-03-12
+595;Ehrmann;Jürgen;Goethestraße;51;80999;München;D;089/1324177;NULL;1985-01-10
+596;Degenhardt;Margarete;Genther Straße;97;30053;Hannover;D;0511/116467;NULL;1981-02-12
+597;Ahnert;Ruth;Am Westufer;120;80999;München;D;089/7574574;NULL;1984-12-23
+598;Schütz;Werner;Frankfurter Allee;45;30053;Hannover;D;NULL;NULL;1985-07-21
+599;Wegner;Viktoria;Wothanallee;24;80809;München;D;NULL;NULL;1983-12-11
+600;Dohrow;Brunhilde;Museumstraße;25;13437;Berlin;D;030/1281613;NULL;1983-07-13
+601;Degenhardt;Gottfried;Ulmer Ring;15;12215;Berlin;D;030/1664484;NULL;1987-12-30
+602;Ehrmann;Hans;Uhlandstraße;15;70175;Stuttgart;D;0711/113868;NULL;1985-12-10
+603;Endrich;Gottfried;Regensburger Straße;7;80999;München;D;NULL;NULL;1981-08-09
+604;Geyer;Andreas;Gerberufer;82;28273;Bremen;D;NULL;NULL;1981-07-21
+605;Geiger;Andreas;Museumstraße;102;70176;Stuttgart;D;0711/552417;NULL;1982-08-02
+606;Meyer;Volker;Bequerelstraße;109;22027;Hamburg;D;NULL;NULL;1984-09-26
+607;Becker;Rita;Lichtensternweg;37;53112;Bonn;D;NULL;NULL;1989-07-21
+608;Krause;Rita;Stuttgarter Straße;87;28273;Bremen;D;0421/868646;NULL;1986-12-18
+609;Rottmann;Hannelore;Federseestraße;85;88361;Altshausen;D;07584/16318;NULL;1989-01-10
+610;Busch;Elfriede;Haydnweg;11;39326;Colbitz;D;NULL;NULL;1984-01-05
+611;Mende;Leonore;Gerichtsstraße;82;28273;Bremen;D;0421/435765;NULL;1986-12-13
+612;Kubicki;Adolf;Parkstraße;83;55131;Mainz;D;06131/12361;NULL;1987-08-10
+613;Paetzold;Gottfried;Augsburger Straße;16;70175;Stuttgart;D;NULL;NULL;1982-03-07
+614;Schütz;Elfriede;Arnsberger Straße;13;80809;München;D;NULL;NULL;1987-08-06
+615;Adrian;Horst;Veilchenweg;33;39326;Colbitz;D;0392/631175;NULL;1986-07-01
+616;Gallus;Claudia;Hermannstraße;30;53112;Bonn;D;0228/645875;NULL;1988-01-29
+617;Voigt;Uli;Schubertstraße;37;22027;Hamburg;D;040/8433823;NULL;1988-10-09
+618;Döring;Waltraud;Müllerstraße;70;63128;Dietzenbach;D;06074/52713;NULL;1981-02-05
+619;Ehrmann;Mathias;Bischofstraße;57;70176;Stuttgart;D;NULL;NULL;1988-12-05
+620;Franke;Rita;Freiburger Straße;108;10319;Berlin;D;030/3528867;NULL;1980-06-19
+621;Müller;Paula;Hindenburgstraße;105;30053;Hannover;D;NULL;NULL;1989-06-18
+622;Pietsch;Julian;Genther Straße;27;97071;Würzburg;D;NULL;NULL;1987-06-27
+623;Degenhardt;Paula;Sieversstraße;16;12055;Berlin;D;030/1822326;NULL;1985-04-07
+624;Eckert;Sigfried;An der Philharmonie;68;53115;Bonn;D;NULL;NULL;1987-08-23
+625;Runge;Julia;Donaustraße;27;55131;Mainz;D;06131/85365;NULL;1988-05-23
+626;Pietsch;Nicole;Warschauer Straße;70;19077;Schwerin;D;0385/225138;NULL;1987-10-26
+627;Peters;Viktoria;Michiganseestraße;42;66111;Saarbrücken;D;NULL;NULL;1982-05-21
+628;Binder;Xaver;Freiburger Straße;37;97070;Würzburg;D;NULL;NULL;1983-07-30
+629;Wagner;Uli;Mainzer Weg;108;88361;Altshausen;D;07584/51768;NULL;1980-03-02
+630;Ackermann;Petra;An der Philharmonie;55;23843;Bad Oldeslohe;D;NULL;NULL;1988-02-07
+631;Durach;Ruth;Josefstraße;77;13437;Berlin;D;030/6557614;NULL;1988-01-07
+632;Blohm;Carsten;Huronseestraße;81;80809;München;D;089/2137754;NULL;1989-05-14
+633;Fichtl;Ruth;Museumstraße;104;28273;Bremen;D;0421/773265;NULL;1988-01-01
+634;Emmerich;Heinz;Schubertstraße;83;70176;Stuttgart;D;0711/874413;NULL;1987-10-22
+635;Runge;Roger;Genther Straße;12;22027;Hamburg;D;040/7386684;NULL;1980-09-11
+636;Dennewitz;Julia;Isac-Newton-Straße;62;55131;Mainz;D;06131/24253;NULL;1983-07-21
+637;Fuchs;Inge;Hindenburgstraße;68;13437;Berlin;D;NULL;NULL;1983-07-04
+638;Oppermann;Viktoria;Lichtensternweg;37;13437;Berlin;D;NULL;NULL;1987-01-14
+639;Peters;Rita;Veilchenweg;97;12055;Berlin;D;NULL;NULL;1988-05-12
+640;Ebner;Waltraud;Lerchenweg;111;66111;Saarbrücken;D;NULL;NULL;1983-07-15
+641;Weber;Regina;Bremer Steige;106;70176;Stuttgart;D;0711/676556;NULL;1988-03-26
+642;Urban;Lisa;Gerberufer;116;81541;München;D;NULL;NULL;1989-01-24
+643;Pech;Regina;Chemnitzer Straße;25;55127;Mainz;D;NULL;NULL;1982-02-27
+644;Rottmann;Margarete;Wilhelmstraße;44;94032;Passau;D;NULL;NULL;1986-11-23
+645;Voigt;Elisabeth;Imanuel-Kant-Straße;69;22027;Hamburg;D;040/6783365;NULL;1980-03-19
+646;Schulz;Andreas;An der Philharmonie;110;97071;Würzburg;D;NULL;NULL;1982-04-16
+647;Junker;Eleonore;Linus-Pauli-Ring;118;12055;Berlin;D;NULL;NULL;1989-01-29
+648;Hoffmann;Nicole;Buchfinkenstraße;27;30053;Hannover;D;NULL;NULL;1983-07-27
+649;Kanther;Leonore;Hermannstraße;30;80809;München;D;089/5127886;NULL;1989-06-17
+650;Rasemann;Hannelore;Hermannstraße;101;22027;Hamburg;D;NULL;NULL;1983-06-11
+651;Fuchs;Julian;Opernstraße;119;63128;Dietzenbach;D;NULL;NULL;1980-07-05
+652;Emmerich;Werner;Arnsberger Straße;115;13437;Berlin;D;NULL;NULL;1983-04-07
+653;Becker;Jürgen;Alter Markt;52;55131;Mainz;D;NULL;NULL;1985-03-09
+654;Stein;Elfriede;Mozartstraße;109;13437;Berlin;D;030/5466664;NULL;1989-05-26
+655;Weber;Ruth;Linus-Pauli-Ring;60;88361;Altshausen;D;07584/17652;NULL;1983-04-07
+656;Christ;Claudia;Am Schauspielhaus;26;39326;Colbitz;D;0392/814466;NULL;1983-05-20
+657;Kanther;Margarete;Warschauer Straße;116;81541;München;D;NULL;NULL;1984-07-28
+658;Schulz;Xaver;Gerberufer;54;9599;Freiberg;D;NULL;NULL;1987-01-27
+659;Wagner;Anna;Lichtensternweg;120;12055;Berlin;D;NULL;NULL;1982-06-10
+660;Franke;Ernst;Flensburger Straße;35;30053;Hannover;D;0511/156676;NULL;1989-01-06
+661;Ceron;Roswitha;Mozartstraße;66;63128;Dietzenbach;D;06074/35878;NULL;1986-03-06
+662;Dienstbier;Cornelia;Leipziger Straße;82;53112;Bonn;D;NULL;NULL;1984-09-30
+663;Eckert;Vanessa;Alter Markt;31;53115;Bonn;D;0228/524515;NULL;1982-05-21
+664;Pech;Ulrike;Donaustraße;30;13437;Berlin;D;030/2246553;NULL;1980-05-10
+665;Ebner;Hiltrud;Veilchenweg;51;12055;Berlin;D;030/1676772;NULL;1982-10-24
+666;Emmerich;Julia;Dolgenseestraße;94;53112;Bonn;D;0228/416818;NULL;1987-01-17
+667;Eckert;Andreas;Düsseldorfer Straße;60;97071;Würzburg;D;0931/884712;NULL;1989-05-15
+668;Degenhardt;Nicole;Leipziger Straße;111;23843;Bad Oldeslohe;D;NULL;NULL;1984-07-08
+669;Rottmann;Dirk;Königsallee;1;70176;Stuttgart;D;0711/423818;NULL;1981-04-09
+670;Rauch;Mathias;Frankfurter Allee;76;66111;Saarbrücken;D;0681/682517;NULL;1989-04-22
+671;Schütz;Dirk;Hertz-Allee;57;70175;Stuttgart;D;0711/748172;NULL;1986-01-05
+672;Christ;Sigfried;Werbellinseestraße;40;53112;Bonn;D;0228/478325;NULL;1986-10-30
+673;Fischer;Hannelore;Weserstraße;65;88361;Altshausen;D;07584/44111;NULL;1986-11-11
+674;Fuchs;Sigmund;Warschauer Straße;79;30053;Hannover;D;NULL;NULL;1984-10-06
+675;Neubauer;Achim;Chemnitzer Straße;10;55131;Mainz;D;NULL;NULL;1988-07-14
+676;Heller;Achim;An der Philharmonie;42;81541;München;D;089/8182551;NULL;1980-02-11
+677;Ganther;Horst;Bischofstraße;37;53112;Bonn;D;0228/168174;NULL;1989-10-07
+678;Rottmann;Dorothea;Pferdekoppel;43;63128;Dietzenbach;D;06074/56867;NULL;1982-04-17
+679;Ebner;Cecilie;Warschauer Straße;34;23843;Bad Oldeslohe;D;04531/34177;NULL;1984-12-05
+680;Dienstbier;Dorothea;Hermannstraße;42;9599;Freiberg;D;03731/84731;NULL;1982-07-16
+681;Ahfeldt;Roswitha;Buchfinkenstraße;102;30053;Hannover;D;0511/643315;NULL;1986-08-07
+682;Adrian;Paula;Genther Straße;51;80809;München;D;NULL;NULL;1986-10-08
+683;Ackermann;Rita;Bischofstraße;68;53115;Bonn;D;NULL;NULL;1986-12-10
+684;Oppermann;Brunhilde;Chiemseestraße;3;66111;Saarbrücken;D;NULL;NULL;1985-12-02
+685;Endrich;Jürgen;Mainzer Weg;86;70175;Stuttgart;D;0711/765384;NULL;1981-06-14
+686;Kubicki;Hannelore;Bäckerweg;51;55131;Mainz;D;NULL;NULL;1983-09-18
+687;Stein;Hans;Schusterstraße;38;70175;Stuttgart;D;NULL;NULL;1982-07-18
+688;Faust;Claudia;Bismarckstraße;5;19077;Schwerin;D;NULL;NULL;1984-08-24
+689;Degenhardt;Andreas;Müllerstraße;78;22015;Hamburg;D;040/2855116;NULL;1989-05-12
+690;Schäfer;Eugen;Brüsseler Straße;62;80809;München;D;NULL;NULL;1986-11-17
+691;Baumann;Achim;Münchner Allee;118;22027;Hamburg;D;040/4315358;NULL;1989-10-22
+692;Reder;Andreas;Donaustraße;52;53112;Bonn;D;0228/623167;NULL;1987-05-27
+693;Wagner;Ernst;Blumenstraße;80;66111;Saarbrücken;D;0681/758751;NULL;1982-05-01
+694;Kanther;Waltraud;Leipziger Straße;76;53115;Bonn;D;NULL;NULL;1983-12-13
+695;Ost;Galathea;Wagnerring;53;12215;Berlin;D;030/6246868;NULL;1989-09-12
+696;Unglert;Wilhelm;Imanuel-Kant-Straße;45;30046;Hannover;D;0511/158558;NULL;1982-08-15
+697;Reder;Cornelia;Ebertstraße;46;70175;Stuttgart;D;0711/387586;NULL;1980-11-30
+698;Blohm;Günther;Bremer Steige;81;22027;Hamburg;D;040/3175278;NULL;1987-01-27
+699;Rasemann;Lisa;Dolgenseestraße;63;19077;Schwerin;D;NULL;NULL;1986-05-30
+700;Emmerich;Uschi;Linus-Pauli-Ring;119;55131;Mainz;D;06131/72343;NULL;1984-08-21
+701;Oppermann;Mechthild;Gerichtsstraße;103;88361;Altshausen;D;NULL;NULL;1982-08-14
+702;Ehrmann;Horst;Josefstraße;99;53112;Bonn;D;NULL;NULL;1981-10-27
+703;Kundt;Mechthild;Isac-Newton-Straße;25;70176;Stuttgart;D;0711/183264;NULL;1987-07-28
+704;Sindermann;Michael;Huronseestraße;7;63128;Dietzenbach;D;06074/78847;NULL;1985-11-01
+705;Ganther;Elisabeth;Waldstraße;22;80999;München;D;NULL;NULL;1982-10-27
+706;Dienstbier;Galathea;Chemnitzer Straße;47;80809;München;D;089/8124632;NULL;1981-05-20
+707;Oppermann;Norbert;Frankfurter Allee;43;53112;Bonn;D;NULL;NULL;1988-02-29
+708;Weber;Nicole;Kurfürstenstraße;93;23843;Bad Oldeslohe;D;NULL;NULL;1989-10-08
+709;Fischer;Jürgen;Waldstraße;76;94032;Passau;D;0851/385154;NULL;1983-02-09
+710;Dienstbier;Lore;Buchfinkenstraße;42;55127;Mainz;D;06131/37234;NULL;1981-02-15
+711;Hanke;Dorothea;Am Stadtpark;40;9599;Freiberg;D;NULL;NULL;1989-07-02
+712;Gerdes;Thomas;Hindenburgstraße;15;80809;München;D;NULL;NULL;1983-06-24
+713;Palm;Siglinde;Josefstraße;22;53115;Bonn;D;0228/752611;NULL;1986-09-16
+714;Drache;Galathea;Lichtensternweg;96;55131;Mainz;D;06131/33278;NULL;1986-06-06
+715;Durach;Sigmund;Michiganseestraße;47;63128;Dietzenbach;D;NULL;NULL;1986-06-21
+716;Ostertag;Tanja;Kurfürstenstraße;73;70176;Stuttgart;D;NULL;NULL;1982-01-08
+717;Reder;Dagmar;Rosenstraße;13;70176;Stuttgart;D;NULL;NULL;1988-03-10
+718;Lichtenstern;Uli;Adlerring;75;23843;Bad Oldeslohe;D;04531/28623;NULL;1980-07-21
+719;Baumann;Uli;Elbestraße;108;63128;Dietzenbach;D;06074/82448;NULL;1980-03-14
+720;Stein;Werner;Regensburger Straße;94;94032;Passau;D;0851/458388;NULL;1986-03-11
+721;Baumann;Ottfried;Guntherstraße;80;53115;Bonn;D;0228/131821;NULL;1989-01-24
+722;Rasemann;Margarete;Warschauer Straße;118;81541;München;D;089/5573238;NULL;1985-11-26
+723;Schäfer;Judith;Arnsberger Straße;97;88361;Altshausen;D;07584/18214;NULL;1989-11-14
+724;Meyer;Elfriede;Müllerstraße;106;53112;Bonn;D;NULL;NULL;1987-07-07
+725;Unger;Dorothea;Weserstraße;64;94032;Passau;D;0851/835627;NULL;1985-02-01
+726;Hoffmann;Michael;Genther Straße;41;70176;Stuttgart;D;0711/882661;NULL;1980-08-27
+727;Engelhardt;Bernd;Bremer Steige;78;39326;Colbitz;D;0392/175252;NULL;1982-08-06
+728;Ganther;Karl;Bremer Steige;110;22027;Hamburg;D;040/3713762;NULL;1985-04-23
+729;Wagner;Sigfried;Linus-Pauli-Ring;57;9599;Freiberg;D;03731/83175;NULL;1983-09-21
+730;Fuchs;Oskar;Goethestraße;23;97071;Würzburg;D;0931/373488;NULL;1982-10-28
+731;Ille;Sigfried;Ulmer Ring;28;12055;Berlin;D;030/5267565;NULL;1984-08-09
+732;Neubauer;Hannelore;Paulusweg;20;12055;Berlin;D;NULL;NULL;1989-05-07
+733;Paetzold;Elisabeth;Imanuel-Kant-Straße;14;80999;München;D;089/8742882;NULL;1989-04-02
+734;Wegner;Vanessa;Wagnerring;76;97070;Würzburg;D;0931/418126;NULL;1980-04-09
+735;Lichtenstern;Brunhilde;Paulusweg;20;97071;Würzburg;D;NULL;NULL;1981-08-04
+736;Peters;Carsten;Bäckerweg;72;10319;Berlin;D;NULL;NULL;1980-11-08
+737;Runge;Emil;Pariser Straße;20;80999;München;D;NULL;NULL;1980-08-24
+738;Linsenbold;Elfriede;Hindenburgstraße;92;22027;Hamburg;D;NULL;NULL;1986-03-07
+739;Fuchs;Peter;Amselweg;1;22027;Hamburg;D;040/8331276;NULL;1983-01-20
+740;Gallus;Uschi;Am Stadtpark;20;23843;Bad Oldeslohe;D;04531/81726;NULL;1984-09-06
+741;Geiger;Boris;Parkstraße;105;53115;Bonn;D;NULL;NULL;1982-03-01
+742;Becker;Sigfried;Huronseestraße;108;28273;Bremen;D;0421/722871;NULL;1986-07-31
+743;Blohm;Uli;Paulusweg;64;63128;Dietzenbach;D;NULL;NULL;1987-05-31
+744;Gerdes;Fritz;Am Stadtpark;56;28273;Bremen;D;NULL;NULL;1981-10-03
+745;Linsenbold;Dieter;Kurfürstenstraße;52;55131;Mainz;D;06131/23775;NULL;1981-09-14
+746;Hertling;Tina;Imanuel-Kant-Straße;96;80809;München;D;089/2255854;NULL;1984-07-25
+747;Ehrhardt;Elisabeth;Ebertstraße;9;12215;Berlin;D;030/8331787;NULL;1981-12-04
+748;Thierse;Julian;Sigmund-Freud-Weg;58;97071;Würzburg;D;0931/568237;NULL;1985-05-26
+749;Oppermann;Fritz;Parkstraße;83;94032;Passau;D;0851/473882;NULL;1982-03-04
+750;Graetschel;Gottfried;Chiemseestraße;61;88361;Altshausen;D;07584/56761;NULL;1984-01-25
+751;Bilger;Esther;Münchner Allee;31;80999;München;D;NULL;NULL;1986-04-12
+752;Vogel;Julius;Frankfurter Allee;39;30053;Hannover;D;NULL;NULL;1981-10-27
+753;Ost;Nicole;Haydnweg;53;55131;Mainz;D;06131/37214;NULL;1983-10-06
+754;Borst;Waltraud;Michiganseestraße;33;81541;München;D;089/6446662;NULL;1987-04-24
+755;Hoffmann;Heinz;Adlerring;85;97070;Würzburg;D;NULL;NULL;1980-10-06
+756;Busch;Regina;Voltastraße;5;66111;Saarbrücken;D;NULL;NULL;1989-09-17
+757;Döring;Filomena;Dolgenseestraße;118;80809;München;D;NULL;NULL;1987-04-13
+758;Gallus;Cornelia;Rosenstraße;99;30053;Hannover;D;0511/454144;NULL;1989-11-25
+759;Döring;Dirk;Blumenstraße;26;19077;Schwerin;D;NULL;NULL;1989-07-12
+760;Ehrhardt;Claudia;Elbestraße;52;39326;Colbitz;D;NULL;NULL;1984-10-23
+761;Döring;Paula;Sigmund-Freud-Weg;84;70176;Stuttgart;D;NULL;NULL;1986-12-02
+762;Pech;Petra;Elbestraße;36;55131;Mainz;D;NULL;NULL;1980-08-06
+763;Ceron;Julian;Donaustraße;72;70176;Stuttgart;D;NULL;NULL;1986-10-24
+764;Busch;Hannelore;Gerberufer;53;12215;Berlin;D;NULL;NULL;1986-05-16
+765;Emmerich;Michael;Isac-Newton-Straße;114;63128;Dietzenbach;D;06074/78337;NULL;1982-04-05
+766;Hanke;Julian;Opernstraße;12;53115;Bonn;D;0228/647311;NULL;1982-08-26
+767;Geyer;Gottfried;Brüsseler Straße;17;81541;München;D;089/3541576;NULL;1980-07-22
+768;Neubauer;Tina;Wilhelmstraße;115;80999;München;D;NULL;NULL;1986-11-16
+769;Scheel;Lisa;Opernstraße;104;23843;Bad Oldeslohe;D;NULL;NULL;1989-09-16
+770;Unger;Esther;Mozartstraße;109;12215;Berlin;D;030/5537331;NULL;1989-12-21
+771;Unglert;Dirk;Stuttgarter Straße;36;9599;Freiberg;D;03731/61747;NULL;1985-12-19
+772;Fischer;Paula;Genther Straße;24;23843;Bad Oldeslohe;D;04531/22814;NULL;1986-08-22
+773;Heller;Manfred;Arnsberger Straße;47;22015;Hamburg;D;040/8745878;NULL;1982-09-09
+774;Pelz;Boris;Chiemseestraße;44;55131;Mainz;D;06131/88624;NULL;1987-12-04
+775;Ost;Julian;Opernstraße;83;81541;München;D;089/7313326;NULL;1986-01-22
+776;Linsenbold;Julius;Am Stadtpark;23;13437;Berlin;D;NULL;NULL;1980-07-26
+777;Wagner;Eugen;Voltastraße;61;10319;Berlin;D;NULL;NULL;1982-08-11
+778;Oppermann;Werner;An der Philharmonie;46;22015;Hamburg;D;NULL;NULL;1981-09-24
+779;Ille;Achim;Hasenheide;37;66111;Saarbrücken;D;0681/623167;NULL;1982-11-14
+780;Endrich;Rita;Chemnitzer Straße;115;22027;Hamburg;D;040/5864525;NULL;1980-08-29
+781;Borst;Lore;Gerichtsstraße;84;97071;Würzburg;D;0931/743421;NULL;1981-09-11
+782;Schäfer;Margarete;Hindenburgstraße;21;39326;Colbitz;D;NULL;NULL;1983-07-30
+783;Stocker;Mathias;Schubertstraße;84;22027;Hamburg;D;NULL;NULL;1981-12-28
+784;Fichtl;Paula;Ebertstraße;63;12215;Berlin;D;030/7537328;NULL;1986-10-13
+785;Durach;Petra;Bequerelstraße;49;70175;Stuttgart;D;NULL;NULL;1983-09-17
+786;Weber;Stefan;Sieversstraße;25;9599;Freiberg;D;NULL;NULL;1985-05-23
+787;Kundt;Emil;Lichtensternweg;111;66111;Saarbrücken;D;NULL;NULL;1988-12-17
+788;Krause;Wilhelm;Ulmer Ring;99;22027;Hamburg;D;NULL;NULL;1986-07-16
+789;Krause;Michael;Kaiserstraße;72;97071;Würzburg;D;0931/238572;NULL;1989-08-07
+790;Weber;Manfred;Uhlandstraße;18;12055;Berlin;D;030/2543155;NULL;1986-05-23
+791;Becker;Uschi;Siegriedstraße;58;80809;München;D;NULL;NULL;1989-07-28
+792;Fuchs;Mechthild;Paulusweg;79;70175;Stuttgart;D;NULL;NULL;1989-01-01
+793;Dohrow;Esther;Mozartstraße;55;88361;Altshausen;D;NULL;NULL;1989-01-01
+794;Scheel;Carsten;Imanuel-Kant-Straße;61;22027;Hamburg;D;NULL;NULL;1983-09-20
+795;Ackermann;Ruth;Mozartstraße;114;80809;München;D;089/3253145;NULL;1987-08-03
+796;Lichtenstern;Margarete;Josefstraße;16;80999;München;D;089/2461324;NULL;1988-07-19
+797;Ehrhardt;Rita;Wagnerring;10;81541;München;D;089/1816883;NULL;1983-03-17
+798;Hanke;Leonore;Bremer Steige;89;70175;Stuttgart;D;0711/135425;NULL;1986-10-20
+799;Pelz;Roger;Nürnberger Straße;117;70176;Stuttgart;D;0711/884742;NULL;1987-08-04
+800;Schütz;Waltraud;Guntherstraße;83;13437;Berlin;D;030/1433788;NULL;1982-05-07
+801;Bilger;Werner;Haydnweg;49;97070;Würzburg;D;NULL;NULL;1986-04-30
+802;Unger;Nicole;Adlerring;12;19077;Schwerin;D;0385/527234;NULL;1988-01-09
+803;Borst;Karl;Siegriedstraße;108;22027;Hamburg;D;040/7145567;NULL;1981-09-20
+804;Neubauer;Günther;Chemnitzer Straße;114;12055;Berlin;D;030/1325126;NULL;1987-09-28
+805;Meyer;Stefanie;Ebertstraße;109;94032;Passau;D;0851/228276;NULL;1988-09-14
+806;Rasemann;Norbert;Isac-Newton-Straße;20;22027;Hamburg;D;NULL;NULL;1981-03-28
+807;Schütz;Anna;Leipziger Straße;84;70175;Stuttgart;D;0711/634444;NULL;1982-05-17
+808;Hanke;Dieter;Mainzer Weg;43;19077;Schwerin;D;0385/652548;NULL;1982-07-07
+809;Rauch;Ottfried;Leipziger Straße;70;81541;München;D;NULL;NULL;1985-11-30
+810;Neuendorf;Bernd;Leipziger Straße;9;23843;Bad Oldeslohe;D;04531/75256;NULL;1983-03-03
+811;Maier;Emil;Ravensburger Straße;106;80999;München;D;NULL;NULL;1982-08-01
+812;Ehrmann;Sigfried;Lerchenweg;60;12055;Berlin;D;NULL;NULL;1980-01-15
+813;Emmerich;Petra;Michiganseestraße;11;12055;Berlin;D;030/7727213;NULL;1984-03-23
+814;Raffael;Thorsten;Mozartstraße;82;22027;Hamburg;D;NULL;NULL;1980-07-16
+815;Sindermann;Viktoria;Mainzer Weg;101;13437;Berlin;D;NULL;NULL;1985-12-15
+816;Busch;Elisabeth;Chemnitzer Straße;37;53112;Bonn;D;NULL;NULL;1985-11-04
+817;Junker;Natascha;Buchfinkenstraße;63;12055;Berlin;D;NULL;NULL;1981-07-08
+818;Maier;Cornelia;Ravensburger Straße;106;80999;München;D;NULL;NULL;1989-03-01
+819;Ost;Michael;Weserstraße;109;55127;Mainz;D;06131/85728;NULL;1989-07-04
+820;Stein;Brunhilde;Pferdekoppel;17;10319;Berlin;D;030/8168285;NULL;1983-10-25
+821;Paetzold;Achim;Kaiserstraße;113;94032;Passau;D;NULL;NULL;1982-04-21
+822;Endrich;Judith;Hasenheide;97;70176;Stuttgart;D;0711/548338;NULL;1987-03-21
+823;Eckert;Gertrud;Karl-Marx-Straße;104;19077;Schwerin;D;NULL;NULL;1984-05-21
+824;Blohm;Thorsten;Schubertstraße;5;12215;Berlin;D;030/7122681;NULL;1989-11-24
+825;Ahfeldt;Lisa;Edisonweg;100;23843;Bad Oldeslohe;D;04531/81644;NULL;1981-08-25
+826;Urban;Walter;Ulmer Ring;35;13437;Berlin;D;030/1586586;NULL;1987-11-05
+827;Hoffmann;Petra;Hertz-Allee;94;39326;Colbitz;D;NULL;NULL;1985-10-15
+828;Unger;Holger;Marienstraße;54;30053;Hannover;D;0511/545168;NULL;1983-06-20
+829;Thierse;Galathea;Düsseldorfer Straße;31;23843;Bad Oldeslohe;D;04531/26748;NULL;1981-04-09
+830;Ostertag;Gertrud;Hindenburgstraße;92;70175;Stuttgart;D;NULL;NULL;1981-09-18
+831;Ostertag;Rita;Sigmund-Freud-Weg;69;22015;Hamburg;D;040/3283575;NULL;1987-04-04
+832;Sindermann;Filomena;Königsallee;113;80999;München;D;089/2172625;NULL;1985-11-14
+833;Wagner;Tanja;Dolgenseestraße;48;88361;Altshausen;D;NULL;NULL;1987-08-18
+834;Pech;Günther;Arnsberger Straße;97;19077;Schwerin;D;NULL;NULL;1982-03-09
+835;Danner;Uli;Wothanallee;18;10319;Berlin;D;030/6515146;NULL;1986-05-12
+836;Weber;Daniel;Imanuel-Kant-Straße;13;9599;Freiberg;D;NULL;NULL;1981-03-16
+837;Endrich;Stefan;Karl-Marx-Straße;34;81541;München;D;NULL;NULL;1987-08-26
+838;Paetzold;Cecilie;Nürnberger Straße;49;55131;Mainz;D;NULL;NULL;1989-04-02
+839;Engelhardt;Norbert;Flensburger Straße;24;53112;Bonn;D;NULL;NULL;1980-12-22
+840;Fuchs;Manfred;Linus-Pauli-Ring;84;55131;Mainz;D;06131/64181;NULL;1981-02-26
+841;Schulz;Daniel;An der Philharmonie;1;70175;Stuttgart;D;NULL;NULL;1982-05-08
+842;Thiel;Doris;Wagnerring;56;23843;Bad Oldeslohe;D;04531/47571;NULL;1980-03-20
+843;Maier;Anna;Warschauer Straße;84;10319;Berlin;D;NULL;NULL;1983-01-10
+844;Haffner;Ernst;Uhlandstraße;78;28273;Bremen;D;NULL;NULL;1981-11-29
+845;Franke;Lore;Marienstraße;99;22015;Hamburg;D;040/6556176;NULL;1984-05-08
+846;Hertling;Anna;Amselweg;64;81541;München;D;NULL;NULL;1984-08-23
+847;Hanke;Volker;Pferdekoppel;26;70176;Stuttgart;D;0711/818872;NULL;1987-06-05
+848;Franke;Bert;Josefstraße;86;19077;Schwerin;D;0385/637433;NULL;1988-08-26
+849;Unger;Wilhelm;Sigmund-Freud-Weg;115;28273;Bremen;D;0421/288666;NULL;1983-06-28
+850;Hanke;Julia;Adlerring;78;28273;Bremen;D;0421/168577;NULL;1982-09-27
+851;Hertling;Julia;Am Schauspielhaus;23;97071;Würzburg;D;0931/524181;NULL;1985-05-24
+852;Voigt;Bianca;Schusterstraße;120;53115;Bonn;D;NULL;NULL;1981-08-07
+853;Neuendorf;Anna;Sieversstraße;71;30046;Hannover;D;0511/448673;NULL;1982-03-20
+854;Ebner;Wilhelm;Königsallee;54;28273;Bremen;D;0421/525444;NULL;1988-06-30
+855;Binder;Peter;Bischofstraße;86;97070;Würzburg;D;NULL;NULL;1982-10-27
+856;Ebner;Filomena;Bismarckstraße;102;55131;Mainz;D;NULL;NULL;1983-03-29
+857;Kundt;Margarete;Waldstraße;89;80999;München;D;NULL;NULL;1989-06-03
+858;Raffael;Cornelia;Kaiserstraße;64;80809;München;D;089/7488758;NULL;1981-10-28
+859;Danner;Andreas;Genther Straße;39;13437;Berlin;D;NULL;NULL;1989-06-13
+860;Ebner;Ansgar;Adlerring;57;22027;Hamburg;D;040/8353311;NULL;1980-07-15
+861;Borst;Dagmar;Königsallee;114;70175;Stuttgart;D;NULL;NULL;1985-04-04
+862;Drache;Ottfried;Regensburger Straße;62;55131;Mainz;D;06131/52648;NULL;1988-06-17
+863;Heller;Elisabeth;Gerberufer;95;53112;Bonn;D;0228/666263;NULL;1980-11-28
+864;Ackermann;Natascha;Hindenburgstraße;42;88361;Altshausen;D;07584/42835;NULL;1984-03-02
+865;Gerdes;Tina;Münchner Allee;30;30046;Hannover;D;0511/775166;NULL;1983-09-11
+866;Eckert;Ansgar;Goethestraße;28;70175;Stuttgart;D;0711/673564;NULL;1986-05-01
+867;Franke;Doris;Passauer Straße;19;30046;Hannover;D;0511/763713;NULL;1988-06-12
+868;Lichtenstern;Holger;Linus-Pauli-Ring;19;12215;Berlin;D;030/4866833;NULL;1980-04-24
+869;Geyer;Klaus;Dolgenseestraße;22;97070;Würzburg;D;0931/651248;NULL;1988-06-30
+870;Lichtenstern;Natascha;Alter Markt;89;63128;Dietzenbach;D;NULL;NULL;1980-06-14
+871;Maier;Adolf;Parkstraße;17;55131;Mainz;D;NULL;NULL;1985-05-26
+872;Binder;Günther;Karl-Marx-Straße;63;9599;Freiberg;D;NULL;NULL;1986-10-26
+873;Oppermann;Stefan;Schillerstraße;7;12055;Berlin;D;030/5567244;NULL;1986-10-29
+874;Dittert;Paul;Ebertstraße;115;9599;Freiberg;D;NULL;NULL;1980-09-29
+875;Lichtenstern;Hans;Museumstraße;40;53112;Bonn;D;0228/483346;NULL;1988-08-01
+876;Endrich;Walter;Theaterstraße;30;66111;Saarbrücken;D;0681/236756;NULL;1985-07-12
+877;Ehrmann;Iris;Wagnerring;26;22015;Hamburg;D;NULL;NULL;1983-07-01
+878;Kubicki;Dagmar;Mainzer Weg;21;88361;Altshausen;D;NULL;NULL;1988-07-05
+879;Neuendorf;Volker;Parkstraße;116;53112;Bonn;D;NULL;NULL;1986-12-04
+880;Becker;Norbert;Parkstraße;31;70176;Stuttgart;D;NULL;NULL;1983-07-13
+881;Mende;Boris;Uhlandstraße;43;55131;Mainz;D;06131/51547;NULL;1982-03-05
+882;Ahfeldt;Uschi;Chiemseestraße;65;88361;Altshausen;D;07584/88654;NULL;1985-03-28
+883;Becker;Dagmar;Isac-Newton-Straße;34;94032;Passau;D;NULL;NULL;1982-07-19
+884;Endrich;Cecilie;Mainzer Weg;94;13437;Berlin;D;030/6736236;NULL;1980-10-11
+885;Dittert;Achim;Siegriedstraße;93;81541;München;D;NULL;NULL;1982-06-13
+886;Linsenbold;Walter;Karl-Marx-Straße;55;53112;Bonn;D;0228/761222;NULL;1984-07-27
+887;Gerdes;Xaver;Hasenheide;56;94032;Passau;D;0851/667154;NULL;1988-07-21
+888;Reder;Walter;An der Philharmonie;27;70175;Stuttgart;D;NULL;NULL;1984-11-09
+889;Borst;Oskar;Am Westufer;80;12215;Berlin;D;030/1422854;NULL;1989-04-27
+890;Unglert;Ernst;Karl-Marx-Straße;32;80809;München;D;NULL;NULL;1988-09-21
+891;Raffael;Lisa;Dolgenseestraße;59;13437;Berlin;D;NULL;NULL;1988-01-31
+892;Pelz;Iris;Guntherstraße;73;30046;Hannover;D;0511/132151;NULL;1983-11-14
+893;Junker;Andreas;Lerchenweg;39;88361;Altshausen;D;07584/84572;NULL;1982-02-14
+894;Ehrmann;Dirk;Mainzer Weg;5;19077;Schwerin;D;NULL;NULL;1988-04-02
+895;Rottmann;Alfred;Freiburger Straße;104;23843;Bad Oldeslohe;D;04531/33258;NULL;1985-07-07
+896;Pietsch;Paula;Theaterstraße;45;12215;Berlin;D;NULL;NULL;1988-07-02
+897;Fuchs;Wilhelm;Edisonweg;8;97071;Würzburg;D;0931/274782;NULL;1982-06-30
+898;Ille;Margarete;Buchfinkenstraße;67;9599;Freiberg;D;NULL;NULL;1980-10-10
+899;Adrian;Lore;Albert-Einstein-Weg;45;13437;Berlin;D;NULL;NULL;1987-12-31
+900;Geiger;Paula;Waldstraße;18;55131;Mainz;D;06131/82833;NULL;1984-07-27
+901;Dohrow;Viktoria;Buchfinkenstraße;67;53115;Bonn;D;NULL;NULL;1980-02-28
+902;Christ;Paul;Brüsseler Straße;60;55127;Mainz;D;06131/41226;NULL;1981-02-08
+903;Wegner;Roger;Am Schauspielhaus;53;70176;Stuttgart;D;NULL;NULL;1989-04-29
+904;Oppermann;Walter;Hasenheide;28;9599;Freiberg;D;NULL;NULL;1988-02-17
+905;Gerdes;Paula;Donaustraße;49;97070;Würzburg;D;0931/543156;NULL;1988-06-05
+906;Bilger;Bernd;Blumenstraße;86;22027;Hamburg;D;040/6468248;NULL;1986-08-18
+907;Ganther;Gertrud;Alter Markt;98;70175;Stuttgart;D;NULL;NULL;1985-03-31
+908;Haffner;Uli;Huronseestraße;15;63128;Dietzenbach;D;06074/41873;NULL;1989-07-10
+909;Heller;Brunhilde;Albert-Einstein-Weg;50;12215;Berlin;D;NULL;NULL;1986-07-12
+910;Bilger;Hans;Ulmer Ring;30;23843;Bad Oldeslohe;D;NULL;NULL;1988-05-25
+911;Kubicki;Roswitha;Opernstraße;108;13437;Berlin;D;NULL;NULL;1980-02-05
+912;Fichtl;Anna;Am Westufer;84;63128;Dietzenbach;D;NULL;NULL;1982-11-22
+913;Hanke;Thorsten;Paulusweg;113;55131;Mainz;D;06131/23587;NULL;1982-12-12
+914;Müller;Roger;Marienstraße;8;81541;München;D;NULL;NULL;1987-03-11
+915;Binder;Michael;Blumenstraße;90;22015;Hamburg;D;040/5487767;NULL;1980-07-24
+916;Palm;Mechthild;Londoner Weg;80;88361;Altshausen;D;NULL;NULL;1981-05-22
+917;Dennewitz;Lore;Kurfürstenstraße;86;30046;Hannover;D;0511/221161;NULL;1983-02-23
+918;Oppermann;Manfred;Karl-Marx-Straße;32;97070;Würzburg;D;NULL;NULL;1983-07-28
+919;Franke;Judith;Weserstraße;96;10319;Berlin;D;NULL;NULL;1981-11-21
+920;Unglert;Julia;Lichtensternweg;85;12055;Berlin;D;030/4258875;NULL;1985-10-25
+921;Unglert;Claudia;Haydnweg;95;63128;Dietzenbach;D;NULL;NULL;1981-04-24
+922;Ille;Holger;Hamburger Straße;66;81541;München;D;089/4452743;NULL;1984-04-19
+923;Ille;Julius;Hindenburgstraße;52;13437;Berlin;D;030/7164544;NULL;1981-02-01
+924;Kundt;Paul;Nürnberger Straße;119;88361;Altshausen;D;07584/78877;NULL;1988-07-13
+925;Dienstbier;Mathias;Hermannstraße;71;22027;Hamburg;D;NULL;NULL;1986-01-21
+926;Graetschel;Cornelia;An der Schmiede;93;22015;Hamburg;D;040/6273326;NULL;1988-02-29
+927;Durach;Bianca;Dolgenseestraße;31;81541;München;D;089/8862384;NULL;1986-08-17
+928;Ahnert;Mathias;Pariser Straße;29;88361;Altshausen;D;07584/88122;NULL;1981-03-07
+929;Maier;Elisabeth;Museumstraße;47;94032;Passau;D;0851/462464;NULL;1986-02-20
+930;Hertling;Julian;Uhlandstraße;76;30046;Hannover;D;0511/652571;NULL;1984-05-23
+931;Hoffmann;Margarete;Bremer Steige;109;66111;Saarbrücken;D;0681/444118;NULL;1984-05-12
+932;Ostertag;Vanessa;Huronseestraße;95;80999;München;D;NULL;NULL;1987-08-12
+933;Raffael;Boris;Opernstraße;75;22027;Hamburg;D;040/3325284;NULL;1982-06-15
+934;Hoffmann;Bernd;Bequerelstraße;56;66111;Saarbrücken;D;0681/243355;NULL;1982-08-23
+935;Ille;Werner;Mainzer Weg;82;88361;Altshausen;D;NULL;NULL;1986-12-03
+1000;Weber;Xaver;An der Philharmonie;102;81541;München;D;089/8664511;NULL;1989-07-29
+1098;Hugendubel;Elfriede;Steinstraße;44;10000;Berlin;D;0134/334455;NULL;1980-05-18
+1099;Nase;Walter;Finkenweg;77;50000;Köln;D;0521/56753;NULL;1983-05-20
+2121;Kind;Christel;Weststraße;187;80000;München;D;0853/99874;NULL;1979-04-07
+3330;Kläff;Otto;Silbergasse;12;39100;Bozen;I;0471/783456;NULL;1981-11-08
+3450;Putzig;Helene;Streitergasse;5/a;39100;Bozen;I;0471/766641;NULL;1983-12-18
+4711;Postmann;Emil;Höhenweg;12/a;70001;Stuttgart;D;0794/77442;NULL;1981-10-02
+8150;Korn;Klara;Talstraße;99;70001;Stuttgart;D;0763/89345;NULL;1981-11-07

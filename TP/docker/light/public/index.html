@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+ <html>
+   <head>
+    <title>WebSocket-Lampe</title>
+    <meta charset="UTF-8" />
+    <style type="text/css">
+      body {
+        margin: 20px; 
+      }
+    </style>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+      let socket = io.connect();
+      socket.on('setLight', function(s) {
+        document.querySelector('#lampe').src =
+          (['light-off.png', 'light-on.png'])[Number(s)];
+      });
+      socket.emit('getLight');
+    </script>
+  </head>
+  <body>
+    <img id="lampe" onClick="socket.emit('toggleLight');">
+  </body>
+</html>
